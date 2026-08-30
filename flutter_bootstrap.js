@@ -33,10 +33,16 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"69c8c61792f04cc809dfef0c910414fb9afc06cd","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js"},{}]};
+_flutter.buildConfig = {"engineRevision":"69c8c61792f04cc809dfef0c910414fb9afc06cd","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js?v=98ea176"},{}]};
 
-_flutter.loader.load({
-  serviceWorkerSettings: {
-    serviceWorkerVersion: "4162303643" /* Flutter's service worker is deprecated and will be removed in a future Flutter release. */
+
+// Flutter's generated service worker is deprecated and previously kept an
+// obsolete admin bundle active on mobile Safari. Do not register a new one,
+// and retire any registration left by an older Eurêka Admin deployment.
+(async () => {
+  if ('serviceWorker' in navigator) {
+    const registrations = await navigator.serviceWorker.getRegistrations();
+    await Promise.all(registrations.map((registration) => registration.unregister()));
   }
-});
+  await _flutter.loader.load();
+})();
