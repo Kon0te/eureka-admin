@@ -1,0 +1,632 @@
+{
+  "spectrum": {
+    "imageAsset": "assets/images/anecdotes/b-prism.png",
+    "imageCredit": "Kelvinsong",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dispersive_prism.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Dispersive_prism.png/500px-Dispersive_prism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Dispersive_prism.png"
+  },
+  "particle": {
+    "imageAsset": "assets/images/anecdotes/b-particle.jpg",
+    "imageCredit": "Rolf Kickuth",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg/1280px-CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "CTRwilsonCloudChamberCavendishLab2013-08-29-17-09-40.jpg"
+  },
+  "collider": {
+    "imageAsset": "assets/images/anecdotes/b-collider.jpg",
+    "imageCredit": "Nikolai Schwerg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CERN_Atlas_Caverne.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/CERN_Atlas_Caverne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "CERN Atlas Caverne.jpg"
+  },
+  "higgs": {
+    "imageAsset": "assets/images/anecdotes/b-higgs.jpg",
+    "imageCredit": "Nikolai Schwerg",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CERN_Atlas_Caverne.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/CERN_Atlas_Caverne.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "CERN Atlas Caverne.jpg"
+  },
+  "qin": {
+    "imageAsset": "assets/images/anecdotes/b-qin.jpg",
+    "imageCredit": "xiquinhosilva",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/1280px-51714-Terracota-Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "51714-Terracota-Army.jpg"
+  },
+  "olympia": {
+    "imageAsset": "assets/images/anecdotes/b-olympia.jpg",
+    "imageCredit": "Bgabel",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GR-olympia-palaestra.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/85/GR-olympia-palaestra.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "GR-olympia-palaestra.jpg"
+  },
+  "harp": {
+    "imageAsset": "assets/images/anecdotes/b-harp.png",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Harp.png",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Harp.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Harp.png"
+  },
+  "transistor": {
+    "imageAsset": "assets/images/anecdotes/b-transistor.jpg",
+    "imageCredit": "Ulfbastel",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Transbauformen.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Transbauformen.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Transbauformen.jpg"
+  },
+  "gps": {
+    "imageAsset": "assets/images/anecdotes/b-gps.jpg",
+    "imageCredit": "Siarhei Besarab",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Magellan_Triton_2000_handheld_GPS_receiver_02.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Magellan_Triton_2000_handheld_GPS_receiver_02.jpg/960px-Magellan_Triton_2000_handheld_GPS_receiver_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Magellan Triton 2000 handheld GPS receiver 02.jpg"
+  },
+  "barcode": {
+    "imageAsset": "assets/images/anecdotes/b-barcode.jpg",
+    "imageCredit": "Pava",
+    "imageLicense": "CC BY-SA 3.0 it",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%2213_-_ITALY_-_bar_code_FLOS_lamp_by_Achille_Castiglioni_-_Made_in_Italy_-_product_design_of_furniture_-_italian_style.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/%2213_-_ITALY_-_bar_code_FLOS_lamp_by_Achille_Castiglioni_-_Made_in_Italy_-_product_design_of_furniture_-_italian_style.jpg/960px-%2213_-_ITALY_-_bar_code_FLOS_lamp_by_Achille_Castiglioni_-_Made_in_Italy_-_product_design_of_furniture_-_italian_style.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/it/deed.en",
+    "originalFile": "\"13 - ITALY - bar code FLOS lamp by Achille Castiglioni - Made in Italy - product design of furniture - italian style.jpg"
+  },
+  "prism": {
+    "imageAsset": "assets/images/anecdotes/b-prism.png",
+    "imageCredit": "Kelvinsong",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dispersive_prism.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Dispersive_prism.png/500px-Dispersive_prism.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Dispersive_prism.png"
+  },
+  "radio": {
+    "imageAsset": "assets/images/anecdotes/b-radio.jpg",
+    "imageCredit": "division, CSIRO",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg/1280px-CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "CSIRO_ScienceImage_4350_CSIROs_Parkes_Radio_Telescope_with_moon_in_the_background.jpg"
+  },
+  "newton": {
+    "imageAsset": "assets/images/anecdotes/b-newton.jpg",
+    "imageCredit": "Y0ssarian22",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:American_Science_and_Surplus_-_Newton%27s_Cradle.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/American_Science_and_Surplus_-_Newton%27s_Cradle.jpg/960px-American_Science_and_Surplus_-_Newton%27s_Cradle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "American Science and Surplus - Newton's Cradle.jpg"
+  },
+  "rocket": {
+    "imageAsset": "assets/images/anecdotes/b-rocket.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Apollo_11_Launch_-_GPN-2000-000630.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Apollo_11_Launch_-_GPN-2000-000630.jpg/1280px-Apollo_11_Launch_-_GPN-2000-000630.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Apollo_11_Launch_-_GPN-2000-000630.jpg"
+  },
+  "metrology": {
+    "imageAsset": "assets/images/anecdotes/b-metrology.jpg",
+    "imageCredit": "Jennifer Lauren Lee, for the U.S. National Institute of Standards and Technology (NIST)",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NIST-4_Kibble_balance.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/NIST-4_Kibble_balance.jpg/1280px-NIST-4_Kibble_balance.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "NIST-4_Kibble_balance.jpg"
+  },
+  "infrared": {
+    "imageAsset": "assets/images/anecdotes/b-infrared.jpg",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tree_example_BOTH.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Tree_example_BOTH.jpg/1280px-Tree_example_BOTH.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "originalFile": "Tree_example_BOTH.jpg"
+  },
+  "eiffel": {
+    "imageAsset": "assets/images/anecdotes/b-eiffel.jpg",
+    "imageCredit": "Benh LIEU SONG",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tour_Eiffel_Wikimedia_Commons_(cropped).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg/1280px-Tour_Eiffel_Wikimedia_Commons_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Tour_Eiffel_Wikimedia_Commons_(cropped).jpg"
+  },
+  "pantheon": {
+    "imageAsset": "assets/images/anecdotes/b-pantheon.jpg",
+    "imageCredit": "NikonZ7II",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pantheon_(Rome)_-_Right_side_and_front.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Pantheon_%28Rome%29_-_Right_side_and_front.jpg/1280px-Pantheon_%28Rome%29_-_Right_side_and_front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Pantheon_(Rome)_-_Right_side_and_front.jpg"
+  },
+  "gard": {
+    "imageAsset": "assets/images/anecdotes/b-gard.jpg",
+    "imageCredit": "Benh LIEU SONG (Flickr)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Pont_du_Gard_BLS.jpg/1280px-Pont_du_Gard_BLS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Pont_du_Gard_BLS.jpg"
+  },
+  "colosseum": {
+    "imageAsset": "assets/images/anecdotes/b-colosseum.jpg",
+    "imageCredit": "FeaturedPics",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Colosseo_2020.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/de/Colosseo_2020.jpg/1280px-Colosseo_2020.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Colosseo_2020.jpg"
+  },
+  "giza": {
+    "imageAsset": "assets/images/anecdotes/b-giza.jpg",
+    "imageCredit": "KennyOMG",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pyramids_of_the_Giza_Necropolis.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Pyramids_of_the_Giza_Necropolis.jpg/1280px-Pyramids_of_the_Giza_Necropolis.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Pyramids_of_the_Giza_Necropolis.jpg"
+  },
+  "taj": {
+    "imageAsset": "assets/images/anecdotes/b-taj.jpg",
+    "imageCredit": "Yann; edited by Jim Carter",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Taj_Mahal_(Edited).jpeg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/1280px-Taj_Mahal_%28Edited%29.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Taj_Mahal_(Edited).jpeg"
+  },
+  "sydney": {
+    "imageAsset": "assets/images/anecdotes/b-sydney.jpg",
+    "imageCredit": "Bernard Spragg. NZ from Christchurch, New Zealand",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sydney_Australia._(21339175489).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Sydney_Australia._%2821339175489%29.jpg/1280px-Sydney_Australia._%2821339175489%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Sydney_Australia._(21339175489).jpg"
+  },
+  "sagrada": {
+    "imageAsset": "assets/images/anecdotes/b-sagrada.jpg",
+    "imageCredit": "Canaan",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ef/SF_maig_2_cropped.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "SF_maig_2_cropped.jpg"
+  },
+  "greatwall": {
+    "imageAsset": "assets/images/anecdotes/b-greatwall.jpg",
+    "imageCredit": "Severin.stalder",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Great_Wall_of_China_at_Jinshanling-edit.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/The_Great_Wall_of_China_at_Jinshanling-edit.jpg/1280px-The_Great_Wall_of_China_at_Jinshanling-edit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "The_Great_Wall_of_China_at_Jinshanling-edit.jpg"
+  },
+  "rosetta": {
+    "imageAsset": "assets/images/anecdotes/b-rosetta.jpg",
+    "imageCredit": "Hans Hillewaert",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Rosetta_Stone.JPG"
+  },
+  "sutton": {
+    "imageAsset": "assets/images/anecdotes/b-sutton.png",
+    "imageCredit": "user:Geni",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/500px-Sutton_Hoo_helmet_2016.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Sutton_Hoo_helmet_2016.png"
+  },
+  "bayeux": {
+    "imageAsset": "assets/images/anecdotes/b-bayeux.png",
+    "imageCredit": "Wikimedia Commons",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Odo_bayeux_tapestry.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Odo_bayeux_tapestry.png/500px-Odo_bayeux_tapestry.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Odo_bayeux_tapestry.png"
+  },
+  "pompeii": {
+    "imageAsset": "assets/images/anecdotes/b-pompeii.jpg",
+    "imageCredit": "Carsten Steger",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/1280px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg"
+  },
+  "machu": {
+    "imageAsset": "assets/images/anecdotes/b-machu.jpg",
+    "imageCredit": "Draceane",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/1280px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Machu_Picchu,_2023_(012).jpg"
+  },
+  "chichen": {
+    "imageAsset": "assets/images/anecdotes/b-chichen.jpg",
+    "imageCredit": "Daniel Schwen",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Chichen_Itza_3.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Chichen_Itza_3.jpg/1280px-Chichen_Itza_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Chichen_Itza_3.jpg"
+  },
+  "versailles": {
+    "imageAsset": "assets/images/anecdotes/b-versailles.jpg",
+    "imageCredit": "Myrabella",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Chateau_Versailles_Galerie_des_Glaces.jpg/1280px-Chateau_Versailles_Galerie_des_Glaces.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Chateau_Versailles_Galerie_des_Glaces.jpg"
+  },
+  "mummy": {
+    "imageAsset": "assets/images/anecdotes/b-mummy.jpg",
+    "imageCredit": "Alyssa Bivins",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ramses_I_Mummy.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Ramses_I_Mummy.jpg/1280px-Ramses_I_Mummy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Ramses_I_Mummy.jpg"
+  },
+  "mona": {
+    "imageAsset": "assets/images/anecdotes/b-mona.jpg",
+    "imageCredit": "Leonardo da Vinci",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mona_Lisa.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/1280px-Mona_Lisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Mona_Lisa.jpg"
+  },
+  "wave": {
+    "imageAsset": "assets/images/anecdotes/b-wave.jpg",
+    "imageCredit": "Katsushika Hokusai",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tsunami_by_hokusai_19th_century.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Tsunami_by_hokusai_19th_century.jpg/1280px-Tsunami_by_hokusai_19th_century.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Tsunami_by_hokusai_19th_century.jpg"
+  },
+  "starry": {
+    "imageAsset": "assets/images/anecdotes/b-starry.jpg",
+    "imageCredit": "Vincent van Gogh",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/1280px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg"
+  },
+  "monet": {
+    "imageAsset": "assets/images/anecdotes/b-monet.jpg",
+    "imageCredit": "Claude Monet",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg/1280px-Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Reflections_of_Clouds_on_the_Water-Lily_Pond.jpg"
+  },
+  "pearl": {
+    "imageAsset": "assets/images/anecdotes/b-pearl.jpg",
+    "imageCredit": "Johannes Vermeer",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:1665_Girl_with_a_Pearl_Earring.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/1665_Girl_with_a_Pearl_Earring.jpg/1280px-1665_Girl_with_a_Pearl_Earring.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "1665_Girl_with_a_Pearl_Earring.jpg"
+  },
+  "venus": {
+    "imageAsset": "assets/images/anecdotes/b-venus.jpg",
+    "imageCredit": "Livioandronico2013",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Front_views_of_the_Venus_de_Milo.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Front_views_of_the_Venus_de_Milo.jpg/1280px-Front_views_of_the_Venus_de_Milo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Front_views_of_the_Venus_de_Milo.jpg"
+  },
+  "victory": {
+    "imageAsset": "assets/images/anecdotes/b-victory.jpg",
+    "imageCredit": "Shonagon",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg/1280px-Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Victoire_de_Samothrace_-_Musee_du_Louvre_-_20190812.jpg"
+  },
+  "rodin": {
+    "imageAsset": "assets/images/anecdotes/b-rodin.jpg",
+    "imageCredit": "Kaisching",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Le_Penseur_by_Rodin_(Kunsthalle_Bielefeld)_2014-04-10.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG/1280px-Le_Penseur_by_Rodin_%28Kunsthalle_Bielefeld%29_2014-04-10.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Le_Penseur_by_Rodin_(Kunsthalle_Bielefeld)_2014-04-10.JPG"
+  },
+  "lascaux": {
+    "imageAsset": "assets/images/anecdotes/b-lascaux.jpg",
+    "imageCredit": "EU",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Lascaux_painting.jpg"
+  },
+  "david": {
+    "imageAsset": "assets/images/anecdotes/b-david.jpg",
+    "imageCredit": "Jörg Bittner Unna",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%27David%27_by_Michelangelo_Fir_JBU004.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/%27David%27_by_Michelangelo_Fir_JBU004.jpg/1280px-%27David%27_by_Michelangelo_Fir_JBU004.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "'David'_by_Michelangelo_Fir_JBU004.jpg"
+  },
+  "piano": {
+    "imageAsset": "assets/images/anecdotes/b-piano.jpg",
+    "imageCredit": "Gryffindor",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steinway_Vienna_002.JPG/1280px-Steinway_Vienna_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Steinway_Vienna_002.JPG"
+  },
+  "violin": {
+    "imageAsset": "assets/images/anecdotes/b-violin.png",
+    "imageCredit": "Just plain Bill",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Violin_VL100.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Violin_VL100.png"
+  },
+  "sax": {
+    "imageAsset": "assets/images/anecdotes/b-sax.png",
+    "imageCredit": "Jonathanischoice",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Eight_saxophone_sizes_smaller.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Eight_saxophone_sizes_smaller.png/1280px-Eight_saxophone_sizes_smaller.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "Eight_saxophone_sizes_smaller.png"
+  },
+  "flute": {
+    "imageAsset": "assets/images/anecdotes/b-flute.jpg",
+    "imageCredit": "David290",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Diffenent_sizes_of_Dizi.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Diffenent_sizes_of_Dizi.jpg/1280px-Diffenent_sizes_of_Dizi.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Diffenent_sizes_of_Dizi.jpg"
+  },
+  "brass": {
+    "imageAsset": "assets/images/anecdotes/b-brass.jpg",
+    "imageCredit": "Yamaha Corporation",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Yamaha_Trumpet_YTR-8335LA_crop.jpg/1280px-Yamaha_Trumpet_YTR-8335LA_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Yamaha_Trumpet_YTR-8335LA_crop.jpg"
+  },
+  "drum": {
+    "imageAsset": "assets/images/anecdotes/b-drum.jpg",
+    "imageCredit": "Madman2001",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Teponaztli.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Two_Teponaztli.jpg/1280px-Two_Teponaztli.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Two_Teponaztli.jpg"
+  },
+  "organ": {
+    "imageAsset": "assets/images/anecdotes/b-organ.jpg",
+    "imageCredit": "Ermell",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg/1280px-Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Neunkirchen_am_Brand_Kirche_Orgel-20210411-RM-155230.jpg"
+  },
+  "theremin": {
+    "imageAsset": "assets/images/anecdotes/b-theremin.jpg",
+    "imageCredit": "Hutschi",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Etherwave_Theremin_Kit.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Etherwave_Theremin_Kit.jpg/1280px-Etherwave_Theremin_Kit.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Etherwave_Theremin_Kit.jpg"
+  },
+  "phonograph": {
+    "imageAsset": "assets/images/anecdotes/b-phonograph.jpg",
+    "imageCredit": "Levin C. Handy (per http://hdl.loc.gov/loc.pnp/cwpbh.04326)",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Edison_and_phonograph_edit1.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Edison_and_phonograph_edit1.jpg/1280px-Edison_and_phonograph_edit1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Edison_and_phonograph_edit1.jpg"
+  },
+  "flyer": {
+    "imageAsset": "assets/images/anecdotes/b-flyer.jpg",
+    "imageCredit": "John T. Daniels",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:First_flight2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/First_flight2.jpg/1280px-First_flight2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "First_flight2.jpg"
+  },
+  "steam": {
+    "imageAsset": "assets/images/anecdotes/b-steam.jpg",
+    "imageCredit": "Nicolás Pérez",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Maquina_vapor_Watt_ETSIIM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Maquina_vapor_Watt_ETSIIM.jpg"
+  },
+  "telegraph": {
+    "imageAsset": "assets/images/anecdotes/b-telegraph.jpg",
+    "imageCredit": "Geni",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cooke_and_Wheatstone_electric_telegraph.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Cooke_and_Wheatstone_electric_telegraph.jpg/1280px-Cooke_and_Wheatstone_electric_telegraph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Cooke_and_Wheatstone_electric_telegraph.jpg"
+  },
+  "telephone": {
+    "imageAsset": "assets/images/anecdotes/b-telephone.jpg",
+    "imageCredit": "Berthold Werner",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Telefon_BW_2012-02-18_13-44-32.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Telefon_BW_2012-02-18_13-44-32.JPG/1280px-Telefon_BW_2012-02-18_13-44-32.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Telefon_BW_2012-02-18_13-44-32.JPG"
+  },
+  "camera": {
+    "imageAsset": "assets/images/anecdotes/b-camera.jpg",
+    "imageCredit": "Roi Boshi",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_-_Chambre_%C3%A0_tiroir_pour_daguerr%C3%A9otype.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_-_Chambre_%C3%A0_tiroir_pour_daguerr%C3%A9otype.jpg/960px-Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_-_Chambre_%C3%A0_tiroir_pour_daguerr%C3%A9otype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Musée des Arts et Métiers - Chambre à tiroir pour daguerréotype.jpg"
+  },
+  "jacquard": {
+    "imageAsset": "assets/images/anecdotes/b-jacquard.jpg",
+    "imageCredit": "Stephencdickson",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_Jacquard_loom_showing_information_punchcards,_National_Museum_of_Scotland.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg/960px-A_Jacquard_loom_showing_information_punchcards%2C_National_Museum_of_Scotland.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "A Jacquard loom showing information punchcards, National Museum of Scotland.jpg"
+  },
+  "braille": {
+    "imageAsset": "assets/images/anecdotes/b-braille.jpg",
+    "imageCredit": "Stefan Malmesjö",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Reading_Braille.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Reading_Braille.jpg/1280px-Reading_Braille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Reading_Braille.jpg"
+  },
+  "cuneiform": {
+    "imageAsset": "assets/images/anecdotes/b-cuneiform.jpg",
+    "imageCredit": "Original author unknown. Translation help provided by Manuel Molina.",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cuneiform_Akkadian_clay_tablet_2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Cuneiform_Akkadian_clay_tablet_2.jpg/960px-Cuneiform_Akkadian_clay_tablet_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Cuneiform Akkadian clay tablet 2.jpg"
+  },
+  "paper": {
+    "imageAsset": "assets/images/anecdotes/b-paper.jpg",
+    "imageCredit": "Gryffindor",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Papiermuseum_Basel_2008_(38).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Papiermuseum_Basel_2008_%2838%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Papiermuseum_Basel_2008_(38).jpg"
+  },
+  "parchment": {
+    "imageAsset": "assets/images/anecdotes/b-parchment.jpg",
+    "imageCredit": "Michal Maňas",
+    "imageLicense": "CC BY 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Parchment_from_goatskin.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Parchment_from_goatskin.jpg/1280px-Parchment_from_goatskin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "originalFile": "Parchment_from_goatskin.jpg"
+  },
+  "gutenberg": {
+    "imageAsset": "assets/images/anecdotes/b-gutenberg.jpg",
+    "imageCredit": "NYC Wanderer (Kevin Eng)",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg/1280px-Gutenberg_Bible%2C_Lenox_Copy%2C_New_York_Public_Library%2C_2009._Pic_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
+  },
+  "unicode": {
+    "imageAsset": "assets/images/anecdotes/b-unicode.jpg",
+    "imageCredit": "D-Kuru",
+    "imageLicense": "CC BY-SA 3.0 at",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Razer_Arctosa_keyboard-top-ar_16to9_PNr%C2%B00325.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/Razer_Arctosa_keyboard-top-ar_16to9_PNr%C2%B00325.jpg/960px-Razer_Arctosa_keyboard-top-ar_16to9_PNr%C2%B00325.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/at/deed.en",
+    "originalFile": "Razer Arctosa keyboard-top-ar 16to9 PNr°0325.jpg"
+  },
+  "rosettawriting": {
+    "imageAsset": "assets/images/anecdotes/b-rosettawriting.jpg",
+    "imageCredit": "Hans Hillewaert",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Rosetta_Stone.JPG"
+  },
+  "typewriter": {
+    "imageAsset": "assets/images/anecdotes/b-typewriter.jpg",
+    "imageCredit": "GodeNehler",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MEK_II-371.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/MEK_II-371.jpg/1280px-MEK_II-371.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "MEK_II-371.jpg"
+  },
+  "web": {
+    "imageAsset": "assets/images/anecdotes/b-web.jpg",
+    "imageCredit": "Geni",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NeXTcube_first_webserver.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/NeXTcube_first_webserver.JPG/960px-NeXTcube_first_webserver.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "NeXTcube first webserver.JPG"
+  },
+  "savoye": {
+    "imageAsset": "assets/images/anecdotes/b-savoye.jpg",
+    "imageCredit": "jeanbaptisteparis from Cambridge, MA, USA",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Villa_Savoye_(8237925975).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Villa_Savoye_%288237925975%29.jpg/960px-Villa_Savoye_%288237925975%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Villa Savoye (8237925975).jpg"
+  },
+  "hieroglyph": {
+    "imageAsset": "assets/images/anecdotes/b-hieroglyph.jpg",
+    "imageCredit": "NaySay",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Egypt_Hieroglyphe4.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/2/25/Egypt_Hieroglyphe4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Egypt Hieroglyphe4.jpg"
+  },
+  "codex": {
+    "imageAsset": "assets/images/anecdotes/b-codex.jpg",
+    "imageCredit": "Image was made by the Bayerische Staatsbibliothek München and the work itself was made by Carolingian craftsmen in ca. 870 AD.",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Codex_Aureus_Sankt_Emmeram.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Codex_Aureus_Sankt_Emmeram.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Codex Aureus Sankt Emmeram.jpg"
+  }
+}

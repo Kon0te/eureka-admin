@@ -1,0 +1,490 @@
+{
+  "bread": {
+    "imageAsset": "assets/images/anecdotes/c-bread.jpg",
+    "imageCredit": "3268zauber",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Korb_mit_Br%C3%B6tchen.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Korb_mit_Br%C3%B6tchen.JPG/960px-Korb_mit_Br%C3%B6tchen.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Korb_mit_Brötchen.JPG"
+  },
+  "egg": {
+    "imageAsset": "assets/images/anecdotes/c-egg.jpg",
+    "imageCredit": "Horacio Cambeiro",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Huevo_frito.jpg/960px-Huevo_frito.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Huevo frito.jpg"
+  },
+  "sugar": {
+    "imageAsset": "assets/images/anecdotes/c-sugar.jpg",
+    "imageCredit": "Romain Behar",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sucre_blanc_cassonade_complet_rapadura.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Sucre_blanc_cassonade_complet_rapadura.jpg/960px-Sucre_blanc_cassonade_complet_rapadura.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Sucre_blanc_cassonade_complet_rapadura.jpg"
+  },
+  "chocolate": {
+    "imageAsset": "assets/images/anecdotes/c-chocolate.jpg",
+    "imageCredit": "Lynnereal",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Bars_(1).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Three_Bars_%281%29.jpg/960px-Three_Bars_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Three_Bars_(1).jpg"
+  },
+  "coffee": {
+    "imageAsset": "assets/images/anecdotes/c-coffee.jpg",
+    "imageCredit": "Marcelo Corrêa",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coffee_Flowers.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Coffee_Flowers.JPG/960px-Coffee_Flowers.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Coffee_Flowers.JPG"
+  },
+  "vanilla": {
+    "imageAsset": "assets/images/anecdotes/c-vanilla.jpg",
+    "imageCredit": "Malcolm Manners from Lakeland FL, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vanilla_planifolia_(6998639597).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Vanilla_planifolia_%286998639597%29.jpg/960px-Vanilla_planifolia_%286998639597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Vanilla_planifolia_(6998639597).jpg"
+  },
+  "saffron": {
+    "imageAsset": "assets/images/anecdotes/c-saffron.jpg",
+    "imageCredit": "Shaharbano",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Saffron_-_premium_spice.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Saffron_-_premium_spice.jpg/960px-Saffron_-_premium_spice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Saffron_-_premium_spice.jpg"
+  },
+  "potato": {
+    "imageAsset": "assets/images/anecdotes/c-potato.jpg",
+    "imageCredit": "Scott Bauer, USDA ARS",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Patates.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Patates.jpg/960px-Patates.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Patates.jpg"
+  },
+  "tomato": {
+    "imageAsset": "assets/images/anecdotes/c-tomato.jpg",
+    "imageCredit": "Softeis",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tomato_je.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Tomato_je.jpg/960px-Tomato_je.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Tomato_je.jpg"
+  },
+  "chili": {
+    "imageAsset": "assets/images/anecdotes/c-chili.jpg",
+    "imageCredit": "Takeaway",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Madame_Jeanette_and_other_chillies.jpg/960px-Madame_Jeanette_and_other_chillies.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Madame_Jeanette_and_other_chillies.jpg"
+  },
+  "marathon": {
+    "imageAsset": "assets/images/anecdotes/c-marathon.jpg",
+    "imageCredit": "Bratislavská župa from Bratislava, Slovakia",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:BSK_CSOB_MARATON046_(33791445325).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/960px-BSK_CSOB_MARATON046_%2833791445325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "BSK_CSOB_MARATON046_(33791445325).jpg"
+  },
+  "basketball": {
+    "imageAsset": "assets/images/anecdotes/c-basketball.jpg",
+    "imageCredit": "kris krüg from Vancouver, Canada",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_(2751923597).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg/960px-USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_%282751923597%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "USA_vs._China_Mens_Basketball_-_Beijing_2008_Olympic_Games_(2751923597).jpg"
+  },
+  "badminton": {
+    "imageAsset": "assets/images/anecdotes/c-badminton.jpg",
+    "imageCredit": "Peter",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Olympics_2012_Mixed_Doubles_Final.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fd/Olympics_2012_Mixed_Doubles_Final.jpg/960px-Olympics_2012_Mixed_Doubles_Final.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Olympics_2012_Mixed_Doubles_Final.jpg"
+  },
+  "tennis": {
+    "imageAsset": "assets/images/anecdotes/c-tennis.jpg",
+    "imageCredit": "Brendan Dennis",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2013_Australian_Open_-_Guillaume_Rufin.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/2013_Australian_Open_-_Guillaume_Rufin.jpg/960px-2013_Australian_Open_-_Guillaume_Rufin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "2013_Australian_Open_-_Guillaume_Rufin.jpg"
+  },
+  "swimming": {
+    "imageAsset": "assets/images/anecdotes/c-swimming.jpg",
+    "imageCredit": "Isiwal",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg/960px-40._Schwimmzonen-_und_Mastersmeeting_Enns_2017_100m_Brust_Herren_USC_Traun-9897.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "40. Schwimmzonen- und Mastersmeeting Enns 2017 100m Brust Herren USC Traun-9897.jpg"
+  },
+  "cycling": {
+    "imageAsset": "assets/images/anecdotes/c-cycling.jpg",
+    "imageCredit": "Daieuxetdailleurs",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cycling_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_sprint_1-32_finals_-_13.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Cycling_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_sprint_1-32_finals_-_13.jpg/960px-Cycling_at_the_2024_Summer_Olympics_%E2%80%93_Men%27s_sprint_1-32_finals_-_13.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Cycling_at_the_2024_Summer_Olympics_–_Men's_sprint_1-32_finals_-_13.jpg"
+  },
+  "archery": {
+    "imageAsset": "assets/images/anecdotes/c-archery.jpg",
+    "imageCredit": "derivative work: Saibo (Δ)\nImage-ArcheryGermanyEarly1980s-OriginalScan.jpg: RX-Guru",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ArcheryGermanyEarly1980s-2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/ArcheryGermanyEarly1980s-2.jpg/960px-ArcheryGermanyEarly1980s-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "ArcheryGermanyEarly1980s-2.jpg"
+  },
+  "judo": {
+    "imageAsset": "assets/images/anecdotes/c-judo.jpg",
+    "imageCredit": "published by ベースボール・マガジン社",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jigoro_Kano_and_Kyuzo_Mifune_(restoration).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Jigoro_Kano_and_Kyuzo_Mifune_%28restoration%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Jigoro_Kano_and_Kyuzo_Mifune_(restoration).jpg"
+  },
+  "curling": {
+    "imageAsset": "assets/images/anecdotes/c-curling.jpg",
+    "imageCredit": "Glenlarson",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Curling,_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton,_Canada.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Curling%2C_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton%2C_Canada.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Curling,_overall_view_of_the_Tim_Hortons_Brier_venue_-_Edmonton,_Canada.jpg"
+  },
+  "tabletennis": {
+    "imageAsset": "assets/images/anecdotes/c-tabletennis.jpg",
+    "imageCredit": "Pierre-Yves Beaudouin",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mondial_Ping_-_Men%27s_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Mondial_Ping_-_Men%27s_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg/960px-Mondial_Ping_-_Men%27s_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Mondial_Ping_-_Men's_Singles_-_Round_4_-_Kenta_Matsudaira-Vladimir_Samsonov_-_57.jpg"
+  },
+  "stonehenge": {
+    "imageAsset": "assets/images/anecdotes/c-stonehenge.jpg",
+    "imageCredit": "garethwiscombe",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/960px-Stonehenge2007_07_30.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Stonehenge2007_07_30.jpg"
+  },
+  "pompeii": {
+    "imageAsset": "assets/images/anecdotes/c-pompeii.jpg",
+    "imageCredit": "Carsten Steger",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg/960px-Aerial_image_of_Pompeii_and_Mount_Vesuvius_%28view_from_the_southeast%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Aerial_image_of_Pompeii_and_Mount_Vesuvius_(view_from_the_southeast).jpg"
+  },
+  "petra": {
+    "imageAsset": "assets/images/anecdotes/c-petra.jpg",
+    "imageCredit": "Azurfrog",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Al_Deir_Petra.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e8/Al_Deir_Petra.JPG/960px-Al_Deir_Petra.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Al_Deir_Petra.JPG"
+  },
+  "machupicchu": {
+    "imageAsset": "assets/images/anecdotes/c-machupicchu.jpg",
+    "imageCredit": "Draceane",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Machu_Picchu,_2023_(012).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Machu_Picchu%2C_2023_%28012%29.jpg/960px-Machu_Picchu%2C_2023_%28012%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Machu_Picchu,_2023_(012).jpg"
+  },
+  "angkor": {
+    "imageAsset": "assets/images/anecdotes/c-angkor.jpg",
+    "imageCredit": "Bjørn Christian Tørrissen",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Angkor_Wat.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/Angkor_Wat.jpg/960px-Angkor_Wat.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Angkor_Wat.jpg"
+  },
+  "terracotta": {
+    "imageAsset": "assets/images/anecdotes/c-terracotta.jpg",
+    "imageCredit": "xiquinhosilva",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:51714-Terracota-Army.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/51714-Terracota-Army.jpg/960px-51714-Terracota-Army.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "51714-Terracota-Army.jpg"
+  },
+  "rosetta-stone": {
+    "imageAsset": "assets/images/anecdotes/c-rosetta-stone.jpg",
+    "imageCredit": "\nHans Hillewaert",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/960px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Rosetta_Stone.JPG"
+  },
+  "deadsea": {
+    "imageAsset": "assets/images/anecdotes/c-deadsea.jpg",
+    "imageCredit": "Osama Shukir Muhammed Amin FRCP(Glasg)",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dead_Sea_Scroll,_Pesher_Isaiah,_from_Qumran_Cave_4,_the_Jordan_Museum_in_Amman.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg/960px-Dead_Sea_Scroll%2C_Pesher_Isaiah%2C_from_Qumran_Cave_4%2C_the_Jordan_Museum_in_Amman.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Dead Sea Scroll, Pesher Isaiah, from Qumran Cave 4, the Jordan Museum in Amman.jpg"
+  },
+  "knossos": {
+    "imageAsset": "assets/images/anecdotes/c-knossos.jpg",
+    "imageCredit": "Deror_avi",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Armon_Knossos_P1060030.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Armon_Knossos_P1060030.JPG/960px-Armon_Knossos_P1060030.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Armon Knossos P1060030.JPG"
+  },
+  "lascaux": {
+    "imageAsset": "assets/images/anecdotes/c-lascaux.jpg",
+    "imageCredit": "\nEU",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lascaux_painting.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Lascaux_painting.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Lascaux_painting.jpg"
+  },
+  "bee": {
+    "imageAsset": "assets/images/anecdotes/c-bee.jpg",
+    "imageCredit": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Apis_mellifera_Western_honey_bee.jpg/960px-Apis_mellifera_Western_honey_bee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Apis_mellifera_Western_honey_bee.jpg"
+  },
+  "ant": {
+    "imageAsset": "assets/images/anecdotes/c-ant.jpg",
+    "imageCredit": "Samantha Henneke from Seagrove, North Carolina, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Red_Ant_-_March_2025.jpg/960px-Red_Ant_-_March_2025.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Red_Ant_-_March_2025.jpg"
+  },
+  "butterfly": {
+    "imageAsset": "assets/images/anecdotes/c-butterfly.jpg",
+    "imageCredit": "Rhododendrites",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Monarch_butterfly_male_(52341).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Monarch_butterfly_male_%2852341%29.jpg/960px-Monarch_butterfly_male_%2852341%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Monarch butterfly male (52341).jpg"
+  },
+  "dragonfly": {
+    "imageAsset": "assets/images/anecdotes/c-dragonfly.jpg",
+    "imageCredit": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Red_grasshawk_(Neurothemis_fluctuans)_male_Phuket_2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b4/Red_grasshawk_%28Neurothemis_fluctuans%29_male_Phuket_2.jpg/960px-Red_grasshawk_%28Neurothemis_fluctuans%29_male_Phuket_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Red_grasshawk_(Neurothemis_fluctuans)_male_Phuket_2.jpg"
+  },
+  "beetle": {
+    "imageAsset": "assets/images/anecdotes/c-beetle.jpg",
+    "imageCredit": "Francisco Welter-Schultes",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coccinella-septempunctata-15-fws.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Coccinella-septempunctata-15-fws.jpg/960px-Coccinella-septempunctata-15-fws.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Coccinella-septempunctata-15-fws.jpg"
+  },
+  "termite": {
+    "imageAsset": "assets/images/anecdotes/c-termite.jpg",
+    "imageCredit": "Photo by Scott Bauer.",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg/960px-Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Coptotermes_formosanus_shiraki_USGov_k8204-7.jpg"
+  },
+  "mantis": {
+    "imageAsset": "assets/images/anecdotes/c-mantis.jpg",
+    "imageCredit": "Mihai C. Popa",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mantis_(European).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Mantis_%28European%29.jpg/960px-Mantis_%28European%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Mantis_(European).jpg"
+  },
+  "flea": {
+    "imageAsset": "assets/images/anecdotes/c-flea.jpg",
+    "imageCredit": "CDC/Janice Haney Carr",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Flea_Scanning_Electron_Micrograph_False_Color.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Flea_Scanning_Electron_Micrograph_False_Color.jpg/960px-Flea_Scanning_Electron_Micrograph_False_Color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Flea_Scanning_Electron_Micrograph_False_Color.jpg"
+  },
+  "mosquito": {
+    "imageAsset": "assets/images/anecdotes/c-mosquito.jpg",
+    "imageCredit": "Alvesgaspar",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Culex_pipiens_2007-1.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/35/Culex_pipiens_2007-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Culex pipiens 2007-1.jpg"
+  },
+  "cicada": {
+    "imageAsset": "assets/images/anecdotes/c-cicada.jpg",
+    "imageCredit": "Judy Gallagher",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cicada_-_Neotibicen_linnei,_Woodbridge,_Virginia.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Cicada_-_Neotibicen_linnei%2C_Woodbridge%2C_Virginia.jpg/960px-Cicada_-_Neotibicen_linnei%2C_Woodbridge%2C_Virginia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Cicada_-_Neotibicen_linnei,_Woodbridge,_Virginia.jpg"
+  },
+  "emperor": {
+    "imageAsset": "assets/images/anecdotes/c-emperor.jpg",
+    "imageCredit": "Ian Duffy from UK",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  "adelie": {
+    "imageAsset": "assets/images/anecdotes/c-adelie.jpg",
+    "imageCredit": "Godot13",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_(Pygoscelis_adeliae)_04.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg/960px-Hope_Bay-2016-Trinity_Peninsula%E2%80%93Ad%C3%A9lie_penguin_%28Pygoscelis_adeliae%29_04.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg"
+  },
+  "bear": {
+    "imageAsset": "assets/images/anecdotes/c-bear.jpg",
+    "imageCredit": "Alan Wilson",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Polar_Bear_-_Alaska_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Polar_Bear_-_Alaska_(cropped).jpg"
+  },
+  "fox": {
+    "imageAsset": "assets/images/anecdotes/c-fox.jpg",
+    "imageCredit": "Jonatan Pie (unsplash.com/@r3dmax)",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_(cropped_3).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg/960px-Vulpes_lagopus_in_Iceland_%28cropped_3%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Vulpes_lagopus_in_Iceland_(cropped_3).jpg"
+  },
+  "krill": {
+    "imageAsset": "assets/images/anecdotes/c-krill.jpg",
+    "imageCredit": "Krill666.jpg: Uwe Kils I am willing to give the image in 1700 resolution to Wikipedia Uwe Kils",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctic_krill_(Euphausia_superba).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Antarctic_krill_%28Euphausia_superba%29.jpg/960px-Antarctic_krill_%28Euphausia_superba%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Antarctic_krill_(Euphausia_superba).jpg"
+  },
+  "walrus": {
+    "imageAsset": "assets/images/anecdotes/c-walrus.jpg",
+    "imageCredit": "Nixette",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg/960px-Walrus_in_the_Russian_Arctic_National_Park%2C_Novaya_Zemlya_2015-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Walrus_in_the_Russian_Arctic_National_Park,_Novaya_Zemlya_2015-2.jpg"
+  },
+  "seaice": {
+    "imageAsset": "assets/images/anecdotes/c-seaice.jpg",
+    "imageCredit": "Patrick Kelley",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Arctic_ice.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Arctic_ice.jpg/960px-Arctic_ice.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Arctic_ice.jpg"
+  },
+  "icecore": {
+    "imageAsset": "assets/images/anecdotes/c-icecore.jpg",
+    "imageCredit": "Photo by Lonnie Thompson, Byrd Polar Research Center, Ohio State University.",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Icecore_4.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Icecore_4.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Icecore_4.jpg"
+  },
+  "aurora": {
+    "imageAsset": "assets/images/anecdotes/c-aurora.jpg",
+    "imageCredit": "United States Air Force photo by Senior Airman Joshua Strang",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg/960px-Aurora_borealis_over_Eielson_Air_Force_Base%2C_Alaska.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg"
+  },
+  "iceberg": {
+    "imageAsset": "assets/images/anecdotes/c-iceberg.jpg",
+    "imageCredit": "AWeith",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Iceberg_in_the_Arctic_with_its_underside_exposed.jpg/960px-Iceberg_in_the_Arctic_with_its_underside_exposed.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Iceberg_in_the_Arctic_with_its_underside_exposed.jpg"
+  },
+  "voyager": {
+    "imageAsset": "assets/images/anecdotes/c-voyager.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Titan_3E_with_Voyager_1.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Titan_3E_with_Voyager_1.jpg/960px-Titan_3E_with_Voyager_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Titan 3E with Voyager 1.jpg"
+  },
+  "apollo": {
+    "imageAsset": "assets/images/anecdotes/c-apollo.jpg",
+    "imageCredit": "Neil A. Armstrong",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg/960px-A_Man_on_the_Moon%2C_AS11-40-5903_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "A_Man_on_the_Moon,_AS11-40-5903_(cropped).jpg"
+  },
+  "curiosity": {
+    "imageAsset": "assets/images/anecdotes/c-curiosity.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg/960px-Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Curiosity_Self-Portrait_at_'Big_Sky'_Drilling_Site.jpg"
+  },
+  "perseverance": {
+    "imageAsset": "assets/images/anecdotes/c-perseverance.jpg",
+    "imageCredit": "NASA/JPL-Caltech",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Perseverance-Selfie-at-Rochette-Horizontal-V2.gif",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Perseverance-Selfie-at-Rochette-Horizontal-V2.gif/960px-Perseverance-Selfie-at-Rochette-Horizontal-V2.gif?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Perseverance-Selfie-at-Rochette-Horizontal-V2.gif"
+  },
+  "webb": {
+    "imageAsset": "assets/images/anecdotes/c-webb.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:JWST_Full_Mirror.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/JWST_Full_Mirror.jpg/960px-JWST_Full_Mirror.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "JWST Full Mirror.jpg"
+  },
+  "hubble": {
+    "imageAsset": "assets/images/anecdotes/c-hubble.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hubble_2009_close-up_2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4a/Hubble_2009_close-up_2.jpg/960px-Hubble_2009_close-up_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Hubble_2009_close-up_2.jpg"
+  },
+  "iss": {
+    "imageAsset": "assets/images/anecdotes/c-iss.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/59/The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg/960px-The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "The_station_pictured_from_the_SpaceX_Crew_Dragon_5.jpg"
+  },
+  "juno": {
+    "imageAsset": "assets/images/anecdotes/c-juno.jpg",
+    "imageCredit": "Kim Shiflett",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Juno_lifted_by_overhead_crane.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cb/Juno_lifted_by_overhead_crane.jpg/960px-Juno_lifted_by_overhead_crane.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Juno lifted by overhead crane.jpg"
+  },
+  "cassini": {
+    "imageAsset": "assets/images/anecdotes/c-cassini.jpg",
+    "imageCredit": "Unknown authorUnknown author",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cassini-Huygens_is_installed_to_the_payload_adapter.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Cassini-Huygens_is_installed_to_the_payload_adapter.jpg/960px-Cassini-Huygens_is_installed_to_the_payload_adapter.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Cassini-Huygens is installed to the payload adapter.jpg"
+  },
+  "rosetta": {
+    "imageAsset": "assets/images/anecdotes/c-rosetta.jpg",
+    "imageCredit": "European Space Agency",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta%E2%80%99s_self-portrait_at_Mars_(12743274474).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Rosetta%E2%80%99s_self-portrait_at_Mars_%2812743274474%29.jpg/960px-Rosetta%E2%80%99s_self-portrait_at_Mars_%2812743274474%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Rosetta’s self-portrait at Mars (12743274474).jpg"
+  },
+  "pickles": {
+    "imageAsset": "assets/images/anecdotes/c-pickles.jpg",
+    "imageCredit": "Renee Comet (photographer)",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pickle.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Pickle.jpg/960px-Pickle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Pickle.jpg"
+  }
+}

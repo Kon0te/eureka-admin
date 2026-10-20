@@ -1,0 +1,426 @@
+{
+  "carbon": {
+    "imageAsset": "assets/images/anecdotes/d_carbon.jpg",
+    "imageCredit": "Robert M. Lavinsky",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Graphite-233436.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Graphite-233436.jpg"
+  },
+  "sodium": {
+    "imageAsset": "assets/images/anecdotes/d_sodium.jpg",
+    "imageCredit": "The original uploader was Dnn87 at English Wikipedia.",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Na_(Sodium).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Na_(Sodium).jpg"
+  },
+  "chlorine": {
+    "imageAsset": "assets/images/anecdotes/d_chlorine.jpg",
+    "imageCredit": "W. Oelen",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Chlorine_in_bottle.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Chlorine_in_bottle.jpg"
+  },
+  "copper": {
+    "imageAsset": "assets/images/anecdotes/d_copper.jpg",
+    "imageCredit": "Native_Copper_Macro_Digon3.jpg: “Jonathan Zander (Digon3)\"\nderivative work: Materialscientist (talk)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NatCopper.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "NatCopper.jpg"
+  },
+  "silicon": {
+    "imageAsset": "assets/images/anecdotes/d_silicon.jpg",
+    "imageCredit": "Rasiel Suarez on behalf of Luciteria LLC",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_piece_of_zone_refined_silicon.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "A_piece_of_zone_refined_silicon.JPG"
+  },
+  "sulfur": {
+    "imageAsset": "assets/images/anecdotes/d_sulfur.jpg",
+    "imageCredit": "Ivar Leidus",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potos%C3%AD,_Bolivia.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Sulfur_-_El_Desierto_mine,_San_Pablo_de_Napa,_Daniel_Campos_Province,_Potosí,_Bolivia.jpg"
+  },
+  "gold": {
+    "imageAsset": "assets/images/anecdotes/d_gold.jpg",
+    "imageCredit": "Alchemist-hp (talk) www.pse-mendelejew.de",
+    "imageLicense": "CC BY-SA 3.0 de",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Gold-crystals.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "originalFile": "Gold-crystals.jpg"
+  },
+  "aluminium": {
+    "imageAsset": "assets/images/anecdotes/d_aluminium.jpg",
+    "imageCredit": "Unknown authorUnknown author",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aluminium-4.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Aluminium-4.jpg"
+  },
+  "dice": {
+    "imageAsset": "assets/images/anecdotes/d_dice.jpg",
+    "imageCredit": "Diacritica",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:6sided_dice_(cropped).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "6sided_dice_(cropped).jpg"
+  },
+  "abacus": {
+    "imageAsset": "assets/images/anecdotes/d_abacus.jpg",
+    "imageCredit": "Deinodactyla",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:20th_Century_Small_Wooden_Abacus.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "20th_Century_Small_Wooden_Abacus.jpg"
+  },
+  "mobius": {
+    "imageAsset": "assets/images/anecdotes/d_mobius.jpg",
+    "imageCredit": "David Benbennick",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%B6bius_Strip.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Möbius_Strip.jpg"
+  },
+  "shell": {
+    "imageAsset": "assets/images/anecdotes/d_shell.jpg",
+    "imageCredit": "Manuae",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Nautilus_belauensis_from_Palau.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Nautilus_belauensis_from_Palau.jpg"
+  },
+  "book": {
+    "imageAsset": "assets/images/anecdotes/d_book.jpg",
+    "imageCredit": "Langenscheidt",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Woerterbuchstapel_Langenscheidt.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Woerterbuchstapel_Langenscheidt.jpg"
+  },
+  "arabic": {
+    "imageAsset": "assets/images/anecdotes/d_arabic.jpg",
+    "imageCredit": "Ibn al-Bawwab · Chester Beatty Library",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ibn_al-Bawwab_-_Qur%CA%BEan_f._278v-279r.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Ibn_al-Bawwab_-_Qurʾan_f._278v-279r.jpg"
+  },
+  "chinese": {
+    "imageAsset": "assets/images/anecdotes/d_chinese.jpg",
+    "imageCredit": "Wang Xianzhi（344–386）",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wang_Xianzhi_Imitation_by_Tang_Dynasty.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Wang_Xianzhi_Imitation_by_Tang_Dynasty.jpg"
+  },
+  "tea": {
+    "imageAsset": "assets/images/anecdotes/d_tea.jpg",
+    "imageCredit": "Difference engine",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Longjing_tea_steeping_in_gaiwan.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Longjing_tea_steeping_in_gaiwan.jpg"
+  },
+  "galapagos": {
+    "imageAsset": "assets/images/anecdotes/d_galapagos.jpg",
+    "imageCredit": "Diego Delso",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Crist%C3%B3bal,_islas_Gal%C3%A1pagos,_Ecuador,_2015-07-24,_DD_11.JPG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Lobo_marino_(Zalophus_californianus_wollebaeki),_Punta_Pitt,_isla_de_San_Cristóbal,_islas_Galápagos,_Ecuador,_2015-07-24,_DD_11.JPG"
+  },
+  "halong": {
+    "imageAsset": "assets/images/anecdotes/d_halong.jpg",
+    "imageCredit": "Taewangkorea",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ha_Long_Bay_in_2019.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Ha_Long_Bay_in_2019.jpg"
+  },
+  "causeway": {
+    "imageAsset": "assets/images/anecdotes/d_causeway.jpg",
+    "imageCredit": "code poet on flickr.",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Causeway-code_poet-4.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Causeway-code_poet-4.jpg"
+  },
+  "wadden": {
+    "imageAsset": "assets/images/anecdotes/d_wadden.jpg",
+    "imageCredit": "Ralf Roletschek",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:13-09-29-nordfriesisches-wattenmeer-RalfR-19.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "13-09-29-nordfriesisches-wattenmeer-RalfR-19.jpg"
+  },
+  "teide": {
+    "imageAsset": "assets/images/anecdotes/d_teide.jpg",
+    "imageCredit": "Thomas Wolf, www.foto-tw.de",
+    "imageLicense": "CC BY-SA 3.0 de",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Roque_Cinchado_und_Teide.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+    "originalFile": "Roque_Cinchado_und_Teide.jpg"
+  },
+  "socotra": {
+    "imageAsset": "assets/images/anecdotes/d_socotra.jpg",
+    "imageCredit": "NASA Landsat / NASA World Wind · Finlay McWalter",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Socotra_satview.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Socotra_satview.jpg"
+  },
+  "victoria": {
+    "imageAsset": "assets/images/anecdotes/d_victoria.jpg",
+    "imageCredit": "Diego Delso",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Cataratas_Victoria,_Zambia-Zimbabue,_2018-07-27,_DD_04.jpg"
+  },
+  "okavango": {
+    "imageAsset": "assets/images/anecdotes/d_okavango.jpg",
+    "imageCredit": "Joachim Huber",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Okavango_Delta,_Botswana1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Okavango_Delta,_Botswana1.jpg"
+  },
+  "uluru": {
+    "imageAsset": "assets/images/anecdotes/d_uluru.jpg",
+    "imageCredit": "Ek2030372672",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ULURU.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "ULURU.jpg"
+  },
+  "canyon": {
+    "imageAsset": "assets/images/anecdotes/d_canyon.jpg",
+    "imageCredit": "\nLennart Sikkema",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Canyon_River_Tree_(165872763).jpeg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Canyon_River_Tree_(165872763).jpeg"
+  },
+  "cyanotype": {
+    "imageAsset": "assets/images/anecdotes/d_cyanotype.jpg",
+    "imageCredit": "\nAtkins, Anna, 1799-1871",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anna_Atkins_algae_cyanotype.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Anna_Atkins_algae_cyanotype.jpg"
+  },
+  "daguerreotype": {
+    "imageAsset": "assets/images/anecdotes/d_daguerreotype.jpg",
+    "imageCredit": "Jean-Baptiste Sabatier-Blot · George Eastman Museum",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Louis_Daguerre_2.jpg",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Louis_Daguerre_2.jpg"
+  },
+  "autochrome": {
+    "imageAsset": "assets/images/anecdotes/d_autochrome.jpg",
+    "imageCredit": "Georges Chevalier",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:1926_Sir_Sigmund_and_Eva_Maria_Warburg.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "1926_Sir_Sigmund_and_Eva_Maria_Warburg.jpg"
+  },
+  "tripod": {
+    "imageAsset": "assets/images/anecdotes/d_tripod.jpg",
+    "imageCredit": "Ashley Pomeroy",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tripod_0840.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Tripod_0840.jpg"
+  },
+  "zoetrope": {
+    "imageAsset": "assets/images/anecdotes/d_zoetrope.jpg",
+    "imageCredit": "Andrew Dunn (Solipsist)",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Zoetrope.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Zoetrope.jpg"
+  },
+  "film": {
+    "imageAsset": "assets/images/anecdotes/d_film.jpg",
+    "imageCredit": "Runner1616",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:35mm_movie_negative.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "35mm_movie_negative.jpg"
+  },
+  "melies": {
+    "imageAsset": "assets/images/anecdotes/d_melies.png",
+    "imageCredit": "Georges Méliès",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Voyage_dans_la_lune_title_card.png",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "Voyage_dans_la_lune_title_card.png"
+  },
+  "projector": {
+    "imageAsset": "assets/images/anecdotes/d_projector.jpg",
+    "imageCredit": "\n\n\n\n\n\nThis photo was taken by Roman Bonnefoy (  Romanceor [parlons-en]). Feel free to use my pictures, but please credit me as the author (as required by the license).\nAn   email or a message would be welcome.\nMore free-licensed pictures on my french Wikipedia account. \nMy website : www.romanceor.net. \n\n",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Projecteur_cin%C3%A9matographique_35mm.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Projecteur_cinématographique_35mm.jpg"
+  },
+  "concorde": {
+    "imageAsset": "assets/images/anecdotes/d_concorde.jpg",
+    "imageCredit": "Eduard Marmet",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "British_Airways_Concorde_G-BOAC_03.jpg"
+  },
+  "dc3": {
+    "imageAsset": "assets/images/anecdotes/d_dc3.jpg",
+    "imageCredit": "Towpilot",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Douglas_DC-3,_SE-CFP.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Douglas_DC-3,_SE-CFP.jpg"
+  },
+  "mallard": {
+    "imageAsset": "assets/images/anecdotes/d_mallard.jpg",
+    "imageCredit": "PTG Dudva",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Number_4468_Mallard_in_York.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Number_4468_Mallard_in_York.jpg"
+  },
+  "rockettrain": {
+    "imageAsset": "assets/images/anecdotes/d_rockettrain.jpg",
+    "imageCredit": "Malcolmxl5",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stephenson_Rocket_at_the_National_Railway_Museum_York_Oct25_01.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Stephenson_Rocket_at_the_National_Railway_Museum_York_Oct25_01.jpg"
+  },
+  "container": {
+    "imageAsset": "assets/images/anecdotes/d_container.jpg",
+    "imageCredit": "KMJ at German Wikipedia",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Container_01_KMJ.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Container_01_KMJ.jpg"
+  },
+  "bicycle": {
+    "imageAsset": "assets/images/anecdotes/d_bicycle.jpg",
+    "imageCredit": "Jonathan Cardy",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rover_safety_bicycle_of_1885_(right).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Rover_safety_bicycle_of_1885_(right).jpg"
+  },
+  "balloon": {
+    "imageAsset": "assets/images/anecdotes/d_balloon.jpg",
+    "imageCredit": "Kropsoq",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2006_Ojiya_balloon_festival_011.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "2006_Ojiya_balloon_festival_011.jpg"
+  },
+  "tgv": {
+    "imageAsset": "assets/images/anecdotes/d_tgv.jpg",
+    "imageCredit": "Nelso Silva",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SNCF_TGV_Duplex_2N2_4718_(8464339495).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "SNCF_TGV_Duplex_2N2_4718_(8464339495).jpg"
+  },
+  "iron": {
+    "imageAsset": "assets/images/anecdotes/d_iron.jpg",
+    "imageCredit": "Ji-Elle",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:TamentitMeteorite.JPG",
+    "licenseUrl": "https://creativecommons.org/publicdomain/mark/1.0/",
+    "originalFile": "TamentitMeteorite.JPG"
+  },
+  "polyhedron": {
+    "imageAsset": "assets/images/anecdotes/d_polyhedron.jpg",
+    "imageCredit": "Diacritica",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:6sided_dice_(cropped).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "6sided_dice_(cropped).jpg"
+  },
+  "lens": {
+    "imageAsset": "assets/images/anecdotes/d_lens.jpg",
+    "imageCredit": "Bill Ebbesen",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Photographic_lenses_front_view.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Photographic_lenses_front_view.jpg"
+  },
+  "tube": {
+    "imageAsset": "assets/images/anecdotes/d_tube.jpg",
+    "imageCredit": "mattbuck (category)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amersham_station_MMB_18_S_Stock.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Amersham_station_MMB_18_S_Stock.jpg"
+  },
+  "circle": {
+    "imageAsset": "assets/images/anecdotes/d_circle.jpg",
+    "imageCredit": "Bybbisch94, Christian Gebhardt",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Landesmuseum_W%C3%BCrttemberg_Kelten_011.4.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Landesmuseum_Württemberg_Kelten_011.4.jpg"
+  },
+  "romanesco": {
+    "imageAsset": "assets/images/anecdotes/d_romanesco.jpg",
+    "imageCredit": "Ivar Leidus",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Romanesco_broccoli_(Brassica_oleracea).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Romanesco_broccoli_(Brassica_oleracea).jpg"
+  },
+  "canal": {
+    "imageAsset": "assets/images/anecdotes/d_canal.jpg",
+    "imageCredit": "User:Stan Shebs",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Panama_Canal_Gatun_Locks_opening.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Panama_Canal_Gatun_Locks_opening.jpg"
+  },
+  "clapper": {
+    "imageAsset": "assets/images/anecdotes/d_clapper.jpg",
+    "imageCredit": "Mattbr",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Clapperboard,_O2_film,_September_2008.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Clapperboard,_O2_film,_September_2008.jpg"
+  },
+  "helium": {
+    "imageAsset": "assets/images/anecdotes/d_helium.jpg",
+    "imageCredit": "Peter Southwood",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Helium_Quad_20151203_133932.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Helium_Quad_20151203_133932.jpg"
+  },
+  "japan": {
+    "imageAsset": "assets/images/anecdotes/d_japan.jpg",
+    "imageCredit": "P K",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Old_japanese_dictionary_(3998147057).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Old_japanese_dictionary_(3998147057).jpg"
+  },
+  "collodion": {
+    "imageAsset": "assets/images/anecdotes/d_collodion.jpg",
+    "imageCredit": "Guy Kawasaki",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:WetPlateCollodioncamera.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+    "originalFile": "WetPlateCollodioncamera.jpg"
+  }
+}

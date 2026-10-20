@@ -1,0 +1,563 @@
+{
+  "a_mercury": {
+    "imageAsset": "assets/images/anecdotes/a_mercury.jpg",
+    "imageCredit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Mercury_in_true_color.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Mercury_in_true_color.jpg"
+  },
+  "a_venus": {
+    "imageAsset": "assets/images/anecdotes/a_venus.jpg",
+    "imageCredit": "NASA/JPL-Caltech",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Venus_from_Mariner_10.jpg"
+  },
+  "a_mars": {
+    "imageAsset": "assets/images/anecdotes/a_mars.png",
+    "imageCredit": "Kevin Gill from Los Angeles, CA, United States",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png/1280px-Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png"
+  },
+  "a_moon": {
+    "imageAsset": "assets/images/anecdotes/a_moon.jpg",
+    "imageCredit": "Gregory H. Revera",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:FullMoon2010.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/FullMoon2010.jpg/1280px-FullMoon2010.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "FullMoon2010.jpg"
+  },
+  "a_elephant": {
+    "imageAsset": "assets/images/anecdotes/a_elephant.jpg",
+    "imageCredit": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg/1280px-178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "178_Male_African_bush_elephant_in_Etosha_National_Park_Photo_by_Giles_Laurent.jpg"
+  },
+  "a_platypus": {
+    "imageAsset": "assets/images/anecdotes/a_platypus.jpg",
+    "imageCredit": "Charles J. Sharp",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg/1280px-Duck-billed_platypus_%28Ornithorhynchus_anatinus%29_Scottsdale.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg"
+  },
+  "a_penguin": {
+    "imageAsset": "assets/images/anecdotes/a_penguin.jpg",
+    "imageCredit": "Ian Duffy from UK",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Aptenodytes_forsteri_-Snow_Hill_Island%2C_Antarctica_-adults_and_juvenile-8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg"
+  },
+  "a_bamboo": {
+    "imageAsset": "assets/images/anecdotes/a_bamboo.jpg",
+    "imageCredit": "Kamakura",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bamboo_forest.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bamboo_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Bamboo_forest.jpg"
+  },
+  "a_flytrap": {
+    "imageAsset": "assets/images/anecdotes/a_flytrap.jpg",
+    "imageCredit": "Noah Elhardt",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Venus_Flytrap_showing_trigger_hairs.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Venus_Flytrap_showing_trigger_hairs.jpg/1280px-Venus_Flytrap_showing_trigger_hairs.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "originalFile": "Venus_Flytrap_showing_trigger_hairs.jpg"
+  },
+  "a_orchid": {
+    "imageAsset": "assets/images/anecdotes/a_orchid.jpg",
+    "imageCredit": "\nOrchi",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Phalaenopsis_amabilis_Orchi_198.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Phalaenopsis amabilis Orchi 198.jpg"
+  },
+  "a_jupiter": {
+    "imageAsset": "assets/images/anecdotes/a_jupiter.png",
+    "imageCredit": "NASA/STSCI (S.T.A.R.S)",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
+    "licenseUrl": "",
+    "originalFile": "Jupiter_OPAL_2024.png"
+  },
+  "a_saturn": {
+    "imageAsset": "assets/images/anecdotes/a_saturn.png",
+    "imageCredit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
+    "licenseUrl": "",
+    "originalFile": "Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png"
+  },
+  "a_uranus": {
+    "imageAsset": "assets/images/anecdotes/a_uranus.png",
+    "imageCredit": "Ardenau4",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Uranus_Voyager2_color_calibrated.png"
+  },
+  "a_neptune": {
+    "imageAsset": "assets/images/anecdotes/a_neptune.png",
+    "imageCredit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Neptune_Voyager2_color_calibrated.png"
+  },
+  "a_ocean": {
+    "imageAsset": "assets/images/anecdotes/a_ocean.jpg",
+    "imageCredit": "ABI imagery from NOAA's GOES-18 satellite",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pacific_Ocean_as_viewed_from_GOES-18_on_September_23,_2023.jpg",
+    "licenseUrl": "",
+    "originalFile": "Pacific_Ocean_as_viewed_from_GOES-18_on_September_23,_2023.jpg"
+  },
+  "a_coral": {
+    "imageAsset": "assets/images/anecdotes/a_coral.jpg",
+    "imageCredit": "Toby Hudson",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coral_Outcrop_Flynn_Reef.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Coral Outcrop Flynn Reef.jpg"
+  },
+  "a_whale": {
+    "imageAsset": "assets/images/anecdotes/a_whale.jpg",
+    "imageCredit": "Juan Cruzado Cortés",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "Humpback_whale_breaching_off_Cabo_San_Lucas.jpg"
+  },
+  "a_shark": {
+    "imageAsset": "assets/images/anecdotes/a_shark.jpg",
+    "imageCredit": "Abe Khao Lak",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Similan_Dive_Center_-_great_whale_shark.jpg"
+  },
+  "a_bat": {
+    "imageAsset": "assets/images/anecdotes/a_bat.jpg",
+    "imageCredit": "Drahkrub",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pipistrellus_female-1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Pipistrellus_female-1.jpg"
+  },
+  "a_redwood": {
+    "imageAsset": "assets/images/anecdotes/a_redwood.jpg",
+    "imageCredit": "Acroterion",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:US_199_Redwood_Highway.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "US_199_Redwood_Highway.jpg"
+  },
+  "a_cactus": {
+    "imageAsset": "assets/images/anecdotes/a_cactus.jpg",
+    "imageCredit": "WClarke",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson,_Arizona_during_November_(58).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Carnegiea_gigantea_in_Saguaro_National_Park_near_Tucson,_Arizona_during_November_(58).jpg"
+  },
+  "a_baobab": {
+    "imageAsset": "assets/images/anecdotes/a_baobab.jpg",
+    "imageCredit": "Ferdinand Reus from Arnhem, Holland",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Baobab_and_elephant,_Tanzania.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Baobab_and_elephant,_Tanzania.jpg"
+  },
+  "a_volcano": {
+    "imageAsset": "assets/images/anecdotes/a_volcano.jpg",
+    "imageCredit": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg"
+  },
+  "a_lungs": {
+    "imageAsset": "assets/images/anecdotes/a_lungs.png",
+    "imageCredit": "Patrick J. Lynch, medical illustrator",
+    "imageLicense": "CC BY 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lungs_diagram_detailed.svg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "originalFile": "Lungs_diagram_detailed.svg"
+  },
+  "a_skin": {
+    "imageAsset": "assets/images/anecdotes/a_skin.jpg",
+    "imageCredit": "XenonR",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_skin_structure.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Human_skin_structure.jpg"
+  },
+  "a_sun": {
+    "imageAsset": "assets/images/anecdotes/a_sun.jpg",
+    "imageCredit": "Matúš Motlo",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Sun_in_white_light.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "The_Sun_in_white_light.jpg"
+  },
+  "a_flamingo": {
+    "imageAsset": "assets/images/anecdotes/a_flamingo.jpg",
+    "imageCredit": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "010_Greater_flamingos_male_and_female_in_the_Camargue_during_mating_season_Photo_by_Giles_Laurent.jpg"
+  },
+  "a_crocodile": {
+    "imageAsset": "assets/images/anecdotes/a_crocodile.jpg",
+    "imageCredit": "Dewet",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NileCrocodile.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "NileCrocodile.jpg"
+  },
+  "a_sloth": {
+    "imageAsset": "assets/images/anecdotes/a_sloth.jpg",
+    "imageCredit": "Jsfouche",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2_toed_sloth.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "2 toed sloth.jpg"
+  },
+  "a_waterlily": {
+    "imageAsset": "assets/images/anecdotes/a_waterlily.jpg",
+    "imageCredit": "Bilby",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Victoria_amazonica_edit_1.jpg"
+  },
+  "a_titan": {
+    "imageAsset": "assets/images/anecdotes/a_titan.jpg",
+    "imageCredit": "Sailing moose",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amorphophallus_titanum_(corpse_flower)_-_2.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Amorphophallus_titanum_(corpse_flower)_-_2.jpg"
+  },
+  "a_cocoa": {
+    "imageAsset": "assets/images/anecdotes/a_cocoa.jpg",
+    "imageCredit": "Luisovalles",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Matadecacao.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Matadecacao.jpg"
+  },
+  "a_coffee": {
+    "imageAsset": "assets/images/anecdotes/a_coffee.jpg",
+    "imageCredit": "Marcelo Corrêa",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coffee_Flowers.JPG",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Coffee_Flowers.JPG"
+  },
+  "a_bone": {
+    "imageAsset": "assets/images/anecdotes/a_bone.jpg",
+    "imageCredit": "Sklmsta",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human-Skeleton.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Human-Skeleton.jpg"
+  },
+  "a_blood": {
+    "imageAsset": "assets/images/anecdotes/a_blood.jpg",
+    "imageCredit": "Wesalius",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Venous_and_arterial_blood.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Venous_and_arterial_blood.jpg"
+  },
+  "a_nose": {
+    "imageAsset": "assets/images/anecdotes/a_nose.jpg",
+    "imageCredit": "Franco Folini",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg"
+  },
+  "a_river": {
+    "imageAsset": "assets/images/anecdotes/a_river.jpg",
+    "imageCredit": "Basile Morin",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Pirogue_running_on_the_Mekong_at_golden_hour_between_Don_Det_and_Don_Khon_Laos.jpg"
+  },
+  "a_mountain": {
+    "imageAsset": "assets/images/anecdotes/a_mountain.jpg",
+    "imageCredit": "Rdevany",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg"
+  },
+  "a_glacier": {
+    "imageAsset": "assets/images/anecdotes/a_glacier.jpg",
+    "imageCredit": "NASA / Christy Hansen",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Geikie_Plateau_Glacier.JPG",
+    "licenseUrl": "",
+    "originalFile": "Geikie_Plateau_Glacier.JPG"
+  },
+  "a_rock": {
+    "imageAsset": "assets/images/anecdotes/a_rock.jpg",
+    "imageCredit": "The stone gate",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bianco_Sardo_Granit_mit_polierter_Oberfl%C3%A4che.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Bianco_Sardo_Granit_mit_polierter_Oberfläche.jpg"
+  },
+  "a_rainbow": {
+    "imageAsset": "assets/images/anecdotes/a_rainbow.jpg",
+    "imageCredit": "Eric Rolph at English Wikipedia",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Double-alaskan-rainbow.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "originalFile": "Double-alaskan-rainbow.jpg"
+  },
+  "a_lightning": {
+    "imageAsset": "assets/images/anecdotes/a_lightning.jpg",
+    "imageCredit": "Maxime Raynal from France",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Port_and_lighthouse_overnight_storm_with_lightning_in_Port-la-Nouvelle.jpg"
+  },
+  "a_snow": {
+    "imageAsset": "assets/images/anecdotes/a_snow.jpg",
+    "imageCredit": "Janek Lass",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Snowflake_(lumehelves).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "Snowflake_(lumehelves).jpg"
+  },
+  "a_cloud": {
+    "imageAsset": "assets/images/anecdotes/a_cloud.jpg",
+    "imageCredit": "PiccoloNamek",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GoldenMedows.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "GoldenMedows.jpg"
+  },
+  "a_tornado": {
+    "imageAsset": "assets/images/anecdotes/a_tornado.jpg",
+    "imageCredit": "Justin Hobson (Justin1569 at English Wikipedia)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:F5_tornado_Elie_Manitoba_2007.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "F5_tornado_Elie_Manitoba_2007.jpg"
+  },
+  "a_eye": {
+    "imageAsset": "assets/images/anecdotes/a_eye.jpg",
+    "imageCredit": "ROTFLOLEB",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_eye_with_blood_vessels.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Human_eye_with_blood_vessels.jpg"
+  },
+  "a_brain": {
+    "imageAsset": "assets/images/anecdotes/a_brain.jpg",
+    "imageCredit": "Asnaebsa",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MRI_of_Human_Brain.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "MRI of Human Brain.jpg"
+  },
+  "a_heart": {
+    "imageAsset": "assets/images/anecdotes/a_heart.png",
+    "imageCredit": "Jerm",
+    "imageLicense": "CC BY 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Heart_anterior_exterior_view.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.5",
+    "originalFile": "Heart_anterior_exterior_view.png"
+  },
+  "a_vanilla": {
+    "imageAsset": "assets/images/anecdotes/a_vanilla.jpg",
+    "imageCredit": "Malcolm Manners from Lakeland FL, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vanilla_planifolia_(6998639597).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Vanilla_planifolia_(6998639597).jpg"
+  },
+  "a_biolum": {
+    "imageAsset": "assets/images/anecdotes/a_biolum.jpg",
+    "imageCredit": "Stephan Sprinz",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Meeresleuchten_auf_Norderney_01.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "Meeresleuchten auf Norderney 01.jpg"
+  },
+  "a_tide": {
+    "imageAsset": "assets/images/anecdotes/a_tide.png",
+    "imageCredit": " The SVG code is valid. This  vector image was created with Inkscape-default",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tide_overview.svg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Tide_overview.svg"
+  },
+  "a_vent": {
+    "imageAsset": "assets/images/anecdotes/a_vent.jpg",
+    "imageCredit": "P. Rona / OAR/National Undersea Research Program (NURP); NOAA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Blacksmoker_in_Atlantic_Ocean.jpg",
+    "licenseUrl": "",
+    "originalFile": "Blacksmoker_in_Atlantic_Ocean.jpg"
+  },
+  "a_kelp": {
+    "imageAsset": "assets/images/anecdotes/a_kelp.jpg",
+    "imageCredit": "Kip Evans",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kelp_forest.jpg",
+    "licenseUrl": "",
+    "originalFile": "Kelp_forest.jpg"
+  },
+  "a_iceberg": {
+    "imageAsset": "assets/images/anecdotes/a_iceberg.jpg",
+    "imageCredit": "AWeith",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Iceberg_in_the_Arctic_with_its_underside_exposed.jpg"
+  },
+  "a_cave": {
+    "imageAsset": "assets/images/anecdotes/a_cave.jpg",
+    "imageCredit": "Eric Guinther, User:Marshman",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Carlsbad_Interior_Formations.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Carlsbad_Interior_Formations.jpg"
+  },
+  "a_dune": {
+    "imageAsset": "assets/images/anecdotes/a_dune.jpg",
+    "imageCredit": "Himarerme",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dunas_de_Maspalomas.jpg",
+    "licenseUrl": "",
+    "originalFile": "Dunas_de_Maspalomas.jpg"
+  },
+  "a_rain": {
+    "imageAsset": "assets/images/anecdotes/a_rain.jpg",
+    "imageCredit": "W.carter",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hard_rain_on_a_roof.jpg",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "originalFile": "Hard_rain_on_a_roof.jpg"
+  },
+  "a_fog": {
+    "imageAsset": "assets/images/anecdotes/a_fog.jpg",
+    "imageCredit": "Abdul Momin",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_foggy_winter_morning.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "A_foggy_winter_morning.jpg"
+  },
+  "a_hail": {
+    "imageAsset": "assets/images/anecdotes/a_hail.jpg",
+    "imageCredit": "nssl0001, National Severe Storms Laboratory (NSSL) Collection",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Granizo.jpg",
+    "licenseUrl": "",
+    "originalFile": "Granizo.jpg"
+  },
+  "a_hurricane": {
+    "imageAsset": "assets/images/anecdotes/a_hurricane.jpg",
+    "imageCredit": "NASA/Goddard Space Flight Center",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Dramatic_Views_of_Hurricane_Florence_from_the_International_Space_Station_From_9_12_(42828603210)_(cropped).jpg"
+  },
+  "a_aurora": {
+    "imageAsset": "assets/images/anecdotes/a_aurora.jpg",
+    "imageCredit": "United States Air Force photo by Senior Airman Joshua Strang",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg",
+    "licenseUrl": "",
+    "originalFile": "Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg"
+  },
+  "a_stomach": {
+    "imageAsset": "assets/images/anecdotes/a_stomach.png",
+    "imageCredit": "Mariana Ruiz, Jmarchn",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Digestive_system_diagram_en.svg",
+    "licenseUrl": "",
+    "originalFile": "Digestive system diagram en.svg"
+  },
+  "a_kidney": {
+    "imageAsset": "assets/images/anecdotes/a_kidney.png",
+    "imageCredit": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Blausen_0592_KidneyAnatomy_01.png",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Blausen_0592_KidneyAnatomy_01.png"
+  },
+  "a_giraffe": {
+    "imageAsset": "assets/images/anecdotes/a_giraffe.png",
+    "imageCredit": "Relative of Brandt Luke Zorn, most likely his father.",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Giraffes.PNG",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "originalFile": "Two_Giraffes.PNG"
+  },
+  "a_earth": {
+    "imageAsset": "assets/images/anecdotes/a_earth.jpg",
+    "imageCredit": "Harrison Schmitt / Apollo 17",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Blue_Marble,_AS17-148-22727.jpg",
+    "licenseUrl": "",
+    "originalFile": "The_Blue_Marble,_AS17-148-22727.jpg"
+  },
+  "a_earthquake": {
+    "imageAsset": "assets/images/anecdotes/a_earthquake.jpg",
+    "imageCredit": "John Wiley User:Jw4nvc - Santa Barbara, California",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial-SanAndreas-CarrizoPlain.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Aerial-SanAndreas-CarrizoPlain.jpg"
+  },
+  "a_groundwater": {
+    "imageAsset": "assets/images/anecdotes/a_groundwater.jpg",
+    "imageCredit": "Kbh3rd",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Big_Spring_Missouri_1-02Aug08.jpg",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Big_Spring_Missouri_1-02Aug08.jpg"
+  },
+  "a_wind": {
+    "imageAsset": "assets/images/anecdotes/a_wind.jpg",
+    "imageCredit": "Taxiarchos228",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Freiburg_im_Breisgau_-_Flugplatz_-_Windsack.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "originalFile": "Freiburg_im_Breisgau_-_Flugplatz_-_Windsack.jpg"
+  },
+  "a_sunflower": {
+    "imageAsset": "assets/images/anecdotes/a_sunflower.jpg",
+    "imageCredit": "Ввласенко",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sunflower_with_bumblebee.jpg",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Sunflower with bumblebee.jpg"
+  }
+}

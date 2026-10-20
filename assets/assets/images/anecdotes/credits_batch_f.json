@@ -1,0 +1,506 @@
+{
+  "bacteria": {
+    "imageAsset": "assets/images/anecdotes/f_bacteria.jpg",
+    "imageCredit": "NIAID",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:E._coli_Bacteria_(7316101966).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/E._coli_Bacteria_%287316101966%29.jpg/960px-E._coli_Bacteria_%287316101966%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "E._coli_Bacteria_(7316101966).jpg",
+    "description": "Scanning electron micrograph of Escherichia coli, grown in culture and adhered to a cover slip. Credit: NIAID"
+  },
+  "archaea": {
+    "imageAsset": "assets/images/anecdotes/f_archaea.png",
+    "imageCredit": "Helga Stan-Lotter and Sergiu Fendrihan. Photograph taken by Chris Frethem, University of Minnesota.",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Halobacterium_salinarum_NRC-1.png",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Halobacterium_salinarum_NRC-1.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Halobacterium salinarum NRC-1.png",
+    "description": "Scanning electron micrograph of rod form of Halobacterium salinarum NRC-1. Size bar = 270 nm"
+  },
+  "yeast": {
+    "imageAsset": "assets/images/anecdotes/f_yeast.jpg",
+    "imageCredit": "Mogana Das Murtey and Patchamuthu Ramasamy",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Saccharomyces_cerevisiae_SEM.jpg/960px-Saccharomyces_cerevisiae_SEM.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Saccharomyces_cerevisiae_SEM.jpg",
+    "description": "Saccharomyces cerevisiae, SEM image"
+  },
+  "mould": {
+    "imageAsset": "assets/images/anecdotes/f_mould.jpg",
+    "imageCredit": "Peter Halasz (Pengo); correction couleur CactiStaccingCrane",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Penicillium_Pengo.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Penicillium_Pengo.jpg/960px-Penicillium_Pengo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Penicillium_Pengo.jpg",
+    "description": ""
+  },
+  "diatom": {
+    "imageAsset": "assets/images/anecdotes/f_diatom.jpg",
+    "imageCredit": "Prof. Gordon T. Taylor, Stony Brook University",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Diatoms_through_the_microscope.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Diatoms_through_the_microscope.jpg/960px-Diatoms_through_the_microscope.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Diatoms_through_the_microscope.jpg",
+    "description": "Assorted diatoms as seen through a microscope.  These specimens were living between crystals of annual sea ice in McMurdo Sound, Antarctica. Image digitized from original 35mm Ektachrome slide.  These tiny phytoplankton are encased within a silicate cell wall."
+  },
+  "amoeba": {
+    "imageAsset": "assets/images/anecdotes/f_amoeba.jpg",
+    "imageCredit": "SmallRex",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amoeba_proteus_with_many_pseudopodia.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Amoeba_proteus_with_many_pseudopodia.jpg/960px-Amoeba_proteus_with_many_pseudopodia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Amoeba_proteus_with_many_pseudopodia.jpg",
+    "description": "Amoeba proteus with pseudopodia, cytoplasm often with truncated bipyramidal crystals. Nucleus large, mean 40 µm, discoid, often biconcave."
+  },
+  "paramecium": {
+    "imageAsset": "assets/images/anecdotes/f_paramecium.jpg",
+    "imageCredit": "Barfooz at the English Wikipedia.",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Paramecium.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Paramecium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Paramecium.jpg",
+    "description": "Paramecium aurelia. Optical microscope. Paramecium aurelia, the best known of all ciliates. The bubbles throughout the cell are vacuoles. The entire surface is covered in cilia, which are blurred by their rapid movement."
+  },
+  "euglena": {
+    "imageAsset": "assets/images/anecdotes/f_euglena.jpg",
+    "imageCredit": "Petr Knotek",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Euglena_sociabilis_433143410.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Euglena_sociabilis_433143410.jpg/960px-Euglena_sociabilis_433143410.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Euglena_sociabilis_433143410.jpg",
+    "description": "Euglena sociabilis in Czechia"
+  },
+  "biofilm": {
+    "imageAsset": "assets/images/anecdotes/f_biofilm.jpg",
+    "imageCredit": "CDC / Rodney M. Donlan, Ph.D. et Janice Carr",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Staphylococcus_aureus_biofilm_01.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Staphylococcus_aureus_biofilm_01.jpg/960px-Staphylococcus_aureus_biofilm_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Staphylococcus_aureus_biofilm_01.jpg",
+    "description": ""
+  },
+  "phage": {
+    "imageAsset": "assets/images/anecdotes/f_phage.jpg",
+    "imageCredit": "SnaxMikn",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Enterobacteria_phage_T2_transmission_electron_micrograph.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Enterobacteria_phage_T2_transmission_electron_micrograph.jpg/960px-Enterobacteria_phage_T2_transmission_electron_micrograph.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Enterobacteria phage T2 transmission electron micrograph.jpg",
+    "description": "T2 phage was prepared from Escherichia coli lysate by PEG precipitation then negatively stained with uranyl formate. Micrograph was taken with an FEI Tecnai transmission electron microscope operating at 120 keV. Cellular debris, nucleic acid, and possibly dissociated tail fibres are visible around the phage. Scale bar, 100 nm."
+  },
+  "eye": {
+    "imageAsset": "assets/images/anecdotes/f_eye.jpg",
+    "imageCredit": "ROTFLOLEB",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_eye_with_blood_vessels.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/Human_eye_with_blood_vessels.jpg/960px-Human_eye_with_blood_vessels.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Human_eye_with_blood_vessels.jpg",
+    "description": "Photo of a human eye of a male European."
+  },
+  "ear": {
+    "imageAsset": "assets/images/anecdotes/f_ear.jpg",
+    "imageCredit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_right_ear_(cropped).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Human_right_ear_%28cropped%29.jpg/960px-Human_right_ear_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Human_right_ear_(cropped).jpg",
+    "description": "Human right ear"
+  },
+  "hand": {
+    "imageAsset": "assets/images/anecdotes/f_hand.jpg",
+    "imageCredit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Hand,_fingers_-_back.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Hand%2C_fingers_-_back.jpg/960px-Hand%2C_fingers_-_back.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Hand,_fingers_-_back.jpg",
+    "description": "A person's left hand, showing the back and fingers."
+  },
+  "nose": {
+    "imageAsset": "assets/images/anecdotes/f_nose.jpg",
+    "imageCredit": "Franco Folini",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d8/Fort_Ross_Elena_wearing_Traditional_Russian_Costume_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
+    "description": "Human nose (Russian woman)"
+  },
+  "balance": {
+    "imageAsset": "assets/images/anecdotes/f_balance.jpg",
+    "imageCredit": "Steffen A. Frost",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cambridgeslackerssaf40.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Cambridgeslackerssaf40.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Cambridgeslackerssaf40.jpg",
+    "description": "Student slacklining at the University of Cambridge"
+  },
+  "cotton": {
+    "imageAsset": "assets/images/anecdotes/f_cotton.jpg",
+    "imageCredit": "USDA Natural Resources Conservation Service",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CottonPlant.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/CottonPlant.JPG/960px-CottonPlant.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "CottonPlant.JPG",
+    "description": ""
+  },
+  "flax": {
+    "imageAsset": "assets/images/anecdotes/f_flax.jpg",
+    "imageCredit": "Rilegator",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Flax_field_Fecamp_01.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Flax_field_Fecamp_01.JPG/960px-Flax_field_Fecamp_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Flax field Fecamp 01.JPG",
+    "description": "Flax field near Fécamp, Département Seine-Maritime, Region Haute-Normandie, France."
+  },
+  "wool": {
+    "imageAsset": "assets/images/anecdotes/f_wool.jpg",
+    "imageCredit": "Rob",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Royal_Winter_Fair_Wool_2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Royal_Winter_Fair_Wool_2.jpg/960px-Royal_Winter_Fair_Wool_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Royal_Winter_Fair_Wool_2.jpg",
+    "description": "Sheeps Wool"
+  },
+  "silk": {
+    "imageAsset": "assets/images/anecdotes/f_silk.jpg",
+    "imageCredit": "Kuebi = Armin Kübelbeck",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Silk_raw_01a.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Silk_raw_01a.jpg/960px-Silk_raw_01a.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Silk_raw_01a.jpg",
+    "description": "Raw silk in the Suzhou No.1 Silk Mill in Suzhou (Jiangsu), China"
+  },
+  "jute": {
+    "imageAsset": "assets/images/anecdotes/f_jute.jpg",
+    "imageCredit": "Biswarup Ganguly",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jute_-_Kolkata_2003-10-31_00538.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Jute_-_Kolkata_2003-10-31_00538.JPG/960px-Jute_-_Kolkata_2003-10-31_00538.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Jute_-_Kolkata_2003-10-31_00538.JPG",
+    "description": "Photographed at Kolkata"
+  },
+  "hemp": {
+    "imageAsset": "assets/images/anecdotes/f_hemp.jpg",
+    "imageCredit": "Barbetorte",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:La_Roche_Jagu_chanvre_1.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/La_Roche_Jagu_chanvre_1.JPG/960px-La_Roche_Jagu_chanvre_1.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "La_Roche_Jagu_chanvre_1.JPG",
+    "description": "Ploëzal (Côtes-d'Armor, Bretagne, France) : Labyrinthe de chanvre au château de la Roche-Jagu."
+  },
+  "sisal": {
+    "imageAsset": "assets/images/anecdotes/f_sisal.jpg",
+    "imageCredit": "Wishmaster",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Plantsisal.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Plantsisal.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Plantsisal.jpg",
+    "description": ""
+  },
+  "coir": {
+    "imageAsset": "assets/images/anecdotes/f_coir.jpg",
+    "imageCredit": "Fotokannan",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coir_fibery.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Coir_fibery.jpg/960px-Coir_fibery.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Coir_fibery.jpg",
+    "description": "This media file is uploaded with India loves Wikipedia event."
+  },
+  "weaving": {
+    "imageAsset": "assets/images/anecdotes/f_weaving.jpg",
+    "imageCredit": "Infrogmation",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GuatemalaWeavings79.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/GuatemalaWeavings79.jpg/960px-GuatemalaWeavings79.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "GuatemalaWeavings79.jpg",
+    "description": "Traditional highland weavings, and woman using a backstrap loom, Guatemala."
+  },
+  "knitting": {
+    "imageAsset": "assets/images/anecdotes/f_knitting.jpg",
+    "imageCredit": "Sadarama",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Oma_strickt_Str%C3%BCmpfe.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Oma_strickt_Str%C3%BCmpfe.jpg/960px-Oma_strickt_Str%C3%BCmpfe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Oma_strickt_Strümpfe.jpg",
+    "description": "Oma strickt Strümpfe"
+  },
+  "soil": {
+    "imageAsset": "assets/images/anecdotes/f_soil.jpg",
+    "imageCredit": "HolgerK at English Wikipedia",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stagnogley.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Stagnogley.JPG/960px-Stagnogley.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Stagnogley.JPG",
+    "description": "This picture of a stagnogley soil was taken by me and I make it avaiable to everyone to use"
+  },
+  "seed": {
+    "imageAsset": "assets/images/anecdotes/f_seed.jpg",
+    "imageCredit": "Alexander Klepnev",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg/960px-%D0%A0%D0%B0%D0%B7%D0%BD%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%B8%D0%B5_%D1%81%D0%B5%D0%BC%D1%8F%D0%BD.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Разнообразие_семян.jpg",
+    "description": "Microimages of seeds of various plants.\nThe first row: Poppy, Red pepper, Strawberry, Apple tree, Blackberry, Rice, Carum.\nSecond row: Mustard, Eggplant, Physalis, grapes, raspberries, red rice, Patchouli.\nThe third row: Figs, Lycium barbarum, Beets, Blueberries, Golden Kiwifruit, Rosehip, Basil.\nThe fourth row: Pink pepper, Tomato, Radish, Carrot, Matthiola, Dill, Coriander\nFifth row: Black pepper, White cabbage, Napa cabbage, Seabuckthorn, Parsley, Dandelion, Capsella bursa-pastoris.\nThe sixth row: Cauliflower, Radish, Kiwifruit, Grenadilla, Passion fruit, Melissa, Tagetes erecta."
+  },
+  "rice": {
+    "imageAsset": "assets/images/anecdotes/f_rice.jpg",
+    "imageCredit": "China News Service",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg/960px-20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "20201102.Hengnan.Hybrid_rice_Sanyou-1.6.jpg",
+    "description": "​2020年第三代杂交水稻“叁优一号”衡南双季晚稻试验示范基地现场测产与观摩会，项目由袁隆平主导。"
+  },
+  "maize": {
+    "imageAsset": "assets/images/anecdotes/f_maize.jpg",
+    "imageCredit": "Mothusi Sekhomba",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Maize_plants_at_tasseling_g_silking_stage.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/Maize_plants_at_tasseling_g_silking_stage.jpg/960px-Maize_plants_at_tasseling_g_silking_stage.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Maize plants at tasseling g silking stage.jpg",
+    "description": "This is an image with the theme \"Farm to Plate\" from:"
+  },
+  "wheat": {
+    "imageAsset": "assets/images/anecdotes/f_wheat.jpg",
+    "imageCredit": "kallerna",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vehn%C3%A4pelto_6.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/Vehn%C3%A4pelto_6.jpg/960px-Vehn%C3%A4pelto_6.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Vehnäpelto_6.jpg",
+    "description": "Wheat field in Vampula, Finland."
+  },
+  "irrigation": {
+    "imageAsset": "assets/images/anecdotes/f_irrigation.jpg",
+    "imageCredit": "Borisshin",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Button_dripper.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Button_dripper.JPG/960px-Button_dripper.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Button_dripper.JPG",
+    "description": "טפטפת ננעצת לא מווסתת"
+  },
+  "compost": {
+    "imageAsset": "assets/images/anecdotes/f_compost.jpg",
+    "imageCredit": "Crystalclear",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Compost_site_germany.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Compost_site_germany.JPG/960px-Compost_site_germany.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Compost_site_germany.JPG",
+    "description": "A rural central compost site in Germany"
+  },
+  "terrace": {
+    "imageAsset": "assets/images/anecdotes/f_terrace.jpg",
+    "imageCredit": "Seventide",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Batad_Rice_Terraces,_Ifugao_Province,_Philippines.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Batad_Rice_Terraces%2C_Ifugao_Province%2C_Philippines.jpg/960px-Batad_Rice_Terraces%2C_Ifugao_Province%2C_Philippines.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Batad_Rice_Terraces,_Ifugao_Province,_Philippines.jpg",
+    "description": "Batad Rice Terraces in June, Ifugao Province, Philippines"
+  },
+  "greenhouse": {
+    "imageAsset": "assets/images/anecdotes/f_greenhouse.jpg",
+    "imageCredit": "Alexander Roumega",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Greenhouse_with_tomatoes_in_Chebachiy.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Greenhouse_with_tomatoes_in_Chebachiy.jpg/960px-Greenhouse_with_tomatoes_in_Chebachiy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Greenhouse with tomatoes in Chebachiy.jpg",
+    "description": "Greenhouse with growing tomatoes. Cebachiy, Semikarakorsk District, Rostov Oblast, Russia."
+  },
+  "graft": {
+    "imageAsset": "assets/images/anecdotes/f_graft.jpg",
+    "imageCredit": "No machine-readable author provided. Kobako assumed (based on copyright claims).",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Zweij%C3%A4hrige-Gei%C3%9Ffu%C3%9Fveredelu.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Zweij%C3%A4hrige-Gei%C3%9Ffu%C3%9Fveredelu.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Zweijährige-Geißfußveredelu.jpg",
+    "description": "Description = Zweijährige Geißfußveredelung\n\nSource = photo taken by Kobako\nDate = Dec. 2005\nAuthor = Kobako"
+  },
+  "pottery": {
+    "imageAsset": "assets/images/anecdotes/f_pottery.jpg",
+    "imageCredit": "Chukwukajustice",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg/960px-Traditional_pottery_in_Nigeria_%28Ikpu_ite%29_19.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Traditional_pottery_in_Nigeria_(Ikpu_ite)_19.jpg",
+    "description": "A closer look at the designed clay pot"
+  },
+  "basket": {
+    "imageAsset": "assets/images/anecdotes/f_basket.jpg",
+    "imageCredit": "ymea",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Woman_weaving_baskets_near_Lake_Ossa.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Woman_weaving_baskets_near_Lake_Ossa.jpg/960px-Woman_weaving_baskets_near_Lake_Ossa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Woman_weaving_baskets_near_Lake_Ossa.jpg",
+    "description": "Woman weaving baskets near Lake Ossa, west of Edea in Cameroon's Littoral Province. Cropped and sharpened version of Image:Edea.jpg, modified by User:Amcaja."
+  },
+  "glass": {
+    "imageAsset": "assets/images/anecdotes/f_glass.jpg",
+    "imageCredit": "KamauxKamau",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Glass_bubble.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Glass_bubble.jpg/960px-Glass_bubble.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Glass_bubble.jpg",
+    "description": "A glassblower shapes hot glass at his workshop. Such workshops help keep folklore alive by making a range of artefacts such as house decors, beads, utensils and more using techniques that date back thousands of years back."
+  },
+  "forge": {
+    "imageAsset": "assets/images/anecdotes/f_forge.jpg",
+    "imageCredit": "Moose Jaw Times Herald",
+    "imageLicense": "CC BY-SA 1.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_blacksmith_at_work.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/A_blacksmith_at_work.jpg/960px-A_blacksmith_at_work.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "A_blacksmith_at_work.jpg",
+    "description": "Picture of Vince J. Heilman (1918-2000) taken by the local newspaper around 1970."
+  },
+  "marquetry": {
+    "imageAsset": "assets/images/anecdotes/f_marquetry.jpg",
+    "imageCredit": "Sailko",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Andr%C3%A9-charles_boulle,_cofanetto_con_tartaruga,_1700-20_ca.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/Andr%C3%A9-charles_boulle%2C_cofanetto_con_tartaruga%2C_1700-20_ca.jpg/960px-Andr%C3%A9-charles_boulle%2C_cofanetto_con_tartaruga%2C_1700-20_ca.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "André-charles_boulle,_cofanetto_con_tartaruga,_1700-20_ca.jpg",
+    "description": "European furniture in the Art Institute of Chicago"
+  },
+  "lathe": {
+    "imageAsset": "assets/images/anecdotes/f_lathe.jpg",
+    "imageCredit": "Bertrand from Paris, France",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Woodturning_Indonesia.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Woodturning_Indonesia.jpg/960px-Woodturning_Indonesia.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Woodturning_Indonesia.jpg",
+    "description": "Woodturning in Indonesia"
+  },
+  "stone": {
+    "imageAsset": "assets/images/anecdotes/f_stone.jpg",
+    "imageCredit": "Myrabella",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tailleur_de_pierre.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Tailleur_de_pierre.jpg/960px-Tailleur_de_pierre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Tailleur de pierre.jpg",
+    "description": "Stonemason working, with his tools. Demonstration during the European Heritage Days 2009."
+  },
+  "leather": {
+    "imageAsset": "assets/images/anecdotes/f_leather.jpg",
+    "imageCredit": "Trougnouf (Benoit Brummer), Les cuirs d'Agathe",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Leather_working_tools_(DSC08329).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Leather_working_tools_%28DSC08329%29.jpg/960px-Leather_working_tools_%28DSC08329%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Leather_working_tools_(DSC08329).jpg",
+    "description": "Leather working tools: scissors, mallet, awl with pliers, half-moon (sealer) knife, buckle, linen thread"
+  },
+  "mosaic": {
+    "imageAsset": "assets/images/anecdotes/f_mosaic.jpg",
+    "imageCredit": "AnonymousUnknown author",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MosaicEpiphany-of-Dionysus.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/MosaicEpiphany-of-Dionysus.jpg/960px-MosaicEpiphany-of-Dionysus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "MosaicEpiphany-of-Dionysus.jpg",
+    "description": "Epiphany of Dionysus mosaic, from the Villa of Dionysus (2nd century AD) in Dion, Greece. Now in the Archeological Museum of Dion."
+  },
+  "barrel": {
+    "imageAsset": "assets/images/anecdotes/f_barrel.jpg",
+    "imageCredit": "Dewet; recadrage et luminosité Soerfm",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cooper1.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Cooper1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Cooper1.jpg",
+    "description": ""
+  },
+  "keyboard": {
+    "imageAsset": "assets/images/anecdotes/f_keyboard.jpg",
+    "imageCredit": "Kambiel5",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Keyboard_Lenovo_ThinkPad_T440p_(QWERTY_layout).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Keyboard_Lenovo_ThinkPad_T440p_%28QWERTY_layout%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Keyboard Lenovo ThinkPad T440p (QWERTY layout).jpg",
+    "description": "klawiatura wyspowa z manipulatorem TrackPoint"
+  },
+  "board": {
+    "imageAsset": "assets/images/anecdotes/f_board.jpg",
+    "imageCredit": "Luciamarflo",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Desktop_Computer_Motherboard.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Desktop_Computer_Motherboard.jpg/960px-Desktop_Computer_Motherboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Desktop Computer Motherboard.jpg",
+    "description": "This is a Motherboard of a Desktop Computer, where we can find an AGP Slot, PCI Slot, IDE Connector, CPU Socket, etc..."
+  },
+  "ram": {
+    "imageAsset": "assets/images/anecdotes/f_ram.jpg",
+    "imageCredit": "An-d",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Swissbit_2GB_PC2-5300U-555.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Swissbit_2GB_PC2-5300U-555.jpg/960px-Swissbit_2GB_PC2-5300U-555.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Swissbit_2GB_PC2-5300U-555.jpg",
+    "description": "Swissbit 8GB PC2-5300U-555 DDR2 RAM"
+  },
+  "disk": {
+    "imageAsset": "assets/images/anecdotes/f_disk.jpg",
+    "imageCredit": "User5515",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ST3320620AS.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/ST3320620AS.jpg/960px-ST3320620AS.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "ST3320620AS.jpg",
+    "description": "Seagate Barracuda HDD 320GB Model ST3320620AS"
+  },
+  "fiber": {
+    "imageAsset": "assets/images/anecdotes/f_fiber.jpg",
+    "imageCredit": "BigRiz",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fibreoptic.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/49/Fibreoptic.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Fibreoptic.jpg",
+    "description": "Fibre optic strands"
+  },
+  "server": {
+    "imageAsset": "assets/images/anecdotes/f_server.jpg",
+    "imageCredit": "Derrick Coetzee from Berkeley, CA, USA",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rear_of_rack_at_NERSC_data_center_-_closeup.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Rear_of_rack_at_NERSC_data_center_-_closeup.jpg/960px-Rear_of_rack_at_NERSC_data_center_-_closeup.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Rear of rack at NERSC data center - closeup.jpg",
+    "description": "Showing blue LED screens giving MAC address and serial number. White cables are Ethernet cables. Each server features commodity PC outlets including a serial port, VGA port, PS/2 ports, and USB ports.\n\nCC0 waiver: To the extent possible under law, I waive all copyright and related or neighboring rights to this work."
+  },
+  "usb": {
+    "imageAsset": "assets/images/anecdotes/f_usb.jpg",
+    "imageCredit": "Evan-Amos",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg/960px-SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg",
+    "description": "A SanDisk-brand USB thumb drive, SanDisk Cruzer Micro, 4GB."
+  },
+  "cpu": {
+    "imageAsset": "assets/images/anecdotes/f_cpu.jpg",
+    "imageCredit": "Pstrahl",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Intel_i9-14900KF_CPU.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Intel_i9-14900KF_CPU.jpg/960px-Intel_i9-14900KF_CPU.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Intel_i9-14900KF_CPU.jpg",
+    "description": "A photo of the Intel i9 14900KF CPU from above"
+  },
+  "core": {
+    "imageAsset": "assets/images/anecdotes/f_core.jpg",
+    "imageCredit": "Konstantin Lanzet",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:KL_CoreMemory.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/KL_CoreMemory.jpg/960px-KL_CoreMemory.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "KL_CoreMemory.jpg",
+    "description": "Core Memory Module – A 32 x 32 core memory plane storing 1024 bits (or 128 bytes) of data. The small black rings at the intersections of the grid wires, organized in four squares, are the ferrite cores."
+  },
+  "punch": {
+    "imageAsset": "assets/images/anecdotes/f_punch.jpg",
+    "imageCredit": "José Antonio González Nieto - cropped by Eyesinthefire",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2punchCards-square.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7c/2punchCards-square.jpg/960px-2punchCards-square.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "2punchCards-square.jpg",
+    "description": "Two IBM-style 12-row, 80-column punched cards"
+  },
+  "tongue": {
+    "imageAsset": "assets/images/anecdotes/f_tongue.jpg",
+    "imageCredit": "Mahdiabbasinv",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%B2%D8%A8%D8%A7%D9%86_tongue.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b8/%D8%B2%D8%A8%D8%A7%D9%86_tongue.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "زبان_tongue.jpg",
+    "description": "آلت گوشتی که دردهان است و برای چشیدن و بلعیدن و گفتار استعمال میشود و لفظ عربیش لسان است"
+  }
+}

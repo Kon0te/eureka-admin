@@ -1,0 +1,622 @@
+{
+  "attention": {
+    "imageAsset": "assets/images/anecdotes/e_attention.jpg",
+    "imageCredit": "Randy",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Scout_Girl_in_Concentration.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Scout_Girl_in_Concentration.jpg/960px-Scout_Girl_in_Concentration.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Scout_Girl_in_Concentration.jpg",
+    "subject": "Attention"
+  },
+  "learning": {
+    "imageAsset": "assets/images/anecdotes/e_learning.jpg",
+    "imageCredit": "Capt. Nick Strocchia",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Controlled_training_exercises_130129-F-HX529-104.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Controlled_training_exercises_130129-F-HX529-104.jpg/960px-Controlled_training_exercises_130129-F-HX529-104.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Controlled_training_exercises_130129-F-HX529-104.jpg",
+    "subject": "Dog training"
+  },
+  "memory": {
+    "imageAsset": "assets/images/anecdotes/e_memory.jpg",
+    "imageCredit": "Joe Crawford from Moorpark, California, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SanDiegoCityCollegeLearningResource_-_bookshelf.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a3/SanDiegoCityCollegeLearningResource_-_bookshelf.jpg/960px-SanDiegoCityCollegeLearningResource_-_bookshelf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "SanDiegoCityCollegeLearningResource_-_bookshelf.jpg",
+    "subject": "Library"
+  },
+  "forget": {
+    "imageAsset": "assets/images/anecdotes/e_forget.jpg",
+    "imageCredit": "L.Marie",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Notebooks.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/Notebooks.jpg/960px-Notebooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Notebooks.jpg",
+    "subject": "Notebook"
+  },
+  "study": {
+    "imageAsset": "assets/images/anecdotes/e_study.jpg",
+    "imageCredit": "bfishadow",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Flash_cards_for_language_learning.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Flash_cards_for_language_learning.jpg/960px-Flash_cards_for_language_learning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Flash_cards_for_language_learning.jpg",
+    "subject": "Flashcard"
+  },
+  "problem": {
+    "imageAsset": "assets/images/anecdotes/e_problem.jpg",
+    "imageCredit": "Scouten",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jigsaw_puzzle_01_by_Scouten.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Jigsaw_puzzle_01_by_Scouten.jpg/960px-Jigsaw_puzzle_01_by_Scouten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Jigsaw_puzzle_01_by_Scouten.jpg",
+    "subject": "Jigsaw puzzle"
+  },
+  "dam": {
+    "imageAsset": "assets/images/anecdotes/e_dam.jpg",
+    "imageCredit": "Source file: Le Grand Portage\nDerivative work: Rehman",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ThreeGorgesDam-China2009.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/ThreeGorgesDam-China2009.jpg/960px-ThreeGorgesDam-China2009.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "ThreeGorgesDam-China2009.jpg",
+    "subject": "Hydroelectricity"
+  },
+  "solar": {
+    "imageAsset": "assets/images/anecdotes/e_solar.jpg",
+    "imageCredit": "Parabel GmbH",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Solarpark_J%C3%A4nnersdorf.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/4/48/Solarpark_J%C3%A4nnersdorf.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Solarpark_Jännersdorf.jpg",
+    "subject": "Photovoltaic power station"
+  },
+  "wind": {
+    "imageAsset": "assets/images/anecdotes/e_wind.jpg",
+    "imageCredit": "Erik Wilde from Berkeley, CA, USA",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Wind_turbines_in_southern_California_2016.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Wind_turbines_in_southern_California_2016.jpg/960px-Wind_turbines_in_southern_California_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Wind_turbines_in_southern_California_2016.jpg",
+    "subject": "Wind farm"
+  },
+  "geothermal": {
+    "imageAsset": "assets/images/anecdotes/e_geothermal.jpg",
+    "imageCredit": "Ásgeir Eggertsson",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Krafla_geothermal_power_station_wiki.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Krafla_geothermal_power_station_wiki.jpg/960px-Krafla_geothermal_power_station_wiki.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Krafla_geothermal_power_station_wiki.jpg",
+    "subject": "Geothermal power"
+  },
+  "biomass": {
+    "imageAsset": "assets/images/anecdotes/e_biomass.jpg",
+    "imageCredit": "Lignum Group",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Woodchip.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Woodchip.jpg/960px-Woodchip.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Woodchip.jpg",
+    "subject": "Woodchips"
+  },
+  "hydrogen": {
+    "imageAsset": "assets/images/anecdotes/e_hydrogen.png",
+    "imageCredit": "DOE",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Liquid_Hydrogen_Tank_at_NASA%27s_Kennedy_Space_Center.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Liquid_Hydrogen_Tank_at_NASA%27s_Kennedy_Space_Center.png/960px-Liquid_Hydrogen_Tank_at_NASA%27s_Kennedy_Space_Center.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Liquid_Hydrogen_Tank_at_NASA's_Kennedy_Space_Center.png",
+    "subject": "Hydrogen storage"
+  },
+  "nuclear": {
+    "imageAsset": "assets/images/anecdotes/e_nuclear.jpg",
+    "imageCredit": "Pilat.Oueb",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg/960px-Centrale-nucl%C3%A9aire-de-saint-alban-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Centrale-nucléaire-de-saint-alban-1.jpg",
+    "subject": "Nuclear power plant"
+  },
+  "meter": {
+    "imageAsset": "assets/images/anecdotes/e_meter.jpg",
+    "imageCredit": "Greg Goebel from Loveland CO, USA",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yipwm_1b_(7691592010).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Yipwm_1b_%287691592010%29.jpg/960px-Yipwm_1b_%287691592010%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Yipwm_1b_(7691592010).jpg",
+    "subject": "Electricity meter"
+  },
+  "battery": {
+    "imageAsset": "assets/images/anecdotes/e_battery.jpg",
+    "imageCredit": "Jelson25",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Datacenter_Backup_Batteries.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Datacenter_Backup_Batteries.jpg/960px-Datacenter_Backup_Batteries.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Datacenter_Backup_Batteries.jpg",
+    "subject": "Rechargeable battery"
+  },
+  "fungi": {
+    "imageAsset": "assets/images/anecdotes/e_fungi.jpg",
+    "imageCredit": "Kieran Roy Powell",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amanita_muscaria_Aberystwyth_2023.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Amanita_muscaria_Aberystwyth_2023.jpg/960px-Amanita_muscaria_Aberystwyth_2023.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Amanita_muscaria_Aberystwyth_2023.jpg",
+    "subject": "Amanita muscaria"
+  },
+  "hyphae": {
+    "imageAsset": "assets/images/anecdotes/e_hyphae.jpg",
+    "imageCredit": "Y_tambe",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Penicillium.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Penicillium.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Penicillium.jpg",
+    "subject": "Hypha"
+  },
+  "cheese": {
+    "imageAsset": "assets/images/anecdotes/e_cheese.jpg",
+    "imageCredit": "Véronique PAGNIER",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bleu_au_lait_de_ch%C3%A8vre.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/11/Bleu_au_lait_de_ch%C3%A8vre.jpg/960px-Bleu_au_lait_de_ch%C3%A8vre.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Bleu_au_lait_de_chèvre.jpg",
+    "subject": "Blue cheese"
+  },
+  "lichen": {
+    "imageAsset": "assets/images/anecdotes/e_lichen.jpg",
+    "imageCredit": "Jason Hollinger",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Letharia_vulpina_JHollinger_crop.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Letharia_vulpina_JHollinger_crop.jpg/960px-Letharia_vulpina_JHollinger_crop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Letharia_vulpina_JHollinger_crop.jpg",
+    "subject": "Lichen"
+  },
+  "reindeerlichen": {
+    "imageAsset": "assets/images/anecdotes/e_reindeerlichen.jpg",
+    "imageCredit": "Jason Hollinger",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Cladonia_rangiferina_205412.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Cladonia_rangiferina_205412.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Cladonia_rangiferina_205412.jpg",
+    "subject": "Cladonia rangiferina"
+  },
+  "fungarium": {
+    "imageAsset": "assets/images/anecdotes/e_fungarium.jpg",
+    "imageCredit": "Neuchâtel Herbarium",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fungi_agaricus_seriesI_001.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/93/Fungi_agaricus_seriesI_001.jpg/960px-Fungi_agaricus_seriesI_001.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "urbanfungus": {
+    "imageAsset": "assets/images/anecdotes/e_urbanfungus.jpg",
+    "imageCredit": "voir ci-dessous / see below",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pleurotus_ostreatus_JPG7.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Pleurotus_ostreatus_JPG7.jpg/960px-Pleurotus_ostreatus_JPG7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Pleurotus_ostreatus_JPG7.jpg",
+    "subject": "Pleurotus ostreatus"
+  },
+  "trilobite": {
+    "imageAsset": "assets/images/anecdotes/e_trilobite.png",
+    "imageCredit": "PaleoNeolitic (montage creator)",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Trilobita_Diversity.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Trilobita_Diversity.png/960px-Trilobita_Diversity.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Trilobita_Diversity.png",
+    "subject": "Trilobite"
+  },
+  "fossil": {
+    "imageAsset": "assets/images/anecdotes/e_fossil.png",
+    "imageCredit": "PaleoNeolitic (montage creator)",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fossil_Diversity.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Fossil_Diversity.png/960px-Fossil_Diversity.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Fossil_Diversity.png",
+    "subject": "Fossil"
+  },
+  "stegosaurus": {
+    "imageAsset": "assets/images/anecdotes/e_stegosaurus.jpg",
+    "imageCredit": "Susannah Maidment et al. & Natural History Museum, London",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Journal.pone.0138352.g001A.jpg/960px-Journal.pone.0138352.g001A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Journal.pone.0138352.g001A.jpg",
+    "subject": "Stegosaurus"
+  },
+  "ankylosaurus": {
+    "imageAsset": "assets/images/anecdotes/e_ankylosaurus.jpg",
+    "imageCredit": "Tim Evanson",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg/960px-Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Ankylosaur_head_-_cast_-_Custer_County_Montana_-_Museum_of_the_Rockies_-_2013-07-08.jpg",
+    "subject": "Ankylosaurus"
+  },
+  "parasaurolophus": {
+    "imageAsset": "assets/images/anecdotes/e_parasaurolophus.jpg",
+    "imageCredit": "Zissoudisctrucker",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:FMNH_Parasaurolophus_fossil.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/FMNH_Parasaurolophus_fossil.jpg/960px-FMNH_Parasaurolophus_fossil.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "FMNH_Parasaurolophus_fossil.jpg",
+    "subject": "Parasaurolophus"
+  },
+  "trex": {
+    "imageAsset": "assets/images/anecdotes/e_trex.jpg",
+    "imageCredit": "ScottRobertAnselmo",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tyrannosaurus_Rex_Holotype.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Tyrannosaurus_Rex_Holotype.jpg/960px-Tyrannosaurus_Rex_Holotype.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Tyrannosaurus_Rex_Holotype.jpg",
+    "subject": "Tyrannosaurus"
+  },
+  "triceratops": {
+    "imageAsset": "assets/images/anecdotes/e_triceratops.jpg",
+    "imageCredit": "Source: Allie_Caulfield  Derivative: User:MathKnight",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LA-Triceratops_mount-2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/LA-Triceratops_mount-2.jpg/960px-LA-Triceratops_mount-2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "LA-Triceratops_mount-2.jpg",
+    "subject": "Triceratops"
+  },
+  "diplodocus": {
+    "imageAsset": "assets/images/anecdotes/e_diplodocus.jpg",
+    "imageCredit": "ScottRobertAnselmo",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CM_Diplodocus.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/CM_Diplodocus.jpg/960px-CM_Diplodocus.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "CM_Diplodocus.jpg",
+    "subject": "Diplodocus"
+  },
+  "iguanodon": {
+    "imageAsset": "assets/images/anecdotes/e_iguanodon.jpg",
+    "imageCredit": "Ben2",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Iguanodon_de_Bernissart_IRSNB_01.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Iguanodon_de_Bernissart_IRSNB_01.JPG/960px-Iguanodon_de_Bernissart_IRSNB_01.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Iguanodon_de_Bernissart_IRSNB_01.JPG",
+    "subject": "Iguanodon"
+  },
+  "factory": {
+    "imageAsset": "assets/images/anecdotes/e_factory.jpg",
+    "imageCredit": "DearEdward from New York, NY, USA",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A321_final_assembly_(9351765668).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/A321_final_assembly_%289351765668%29.jpg/960px-A321_final_assembly_%289351765668%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "A321_final_assembly_(9351765668).jpg",
+    "subject": "Assembly line"
+  },
+  "market": {
+    "imageAsset": "assets/images/anecdotes/e_market.jpg",
+    "imageCredit": "No machine-readable author provided. Sstevenson24 assumed (based on copyright claims).",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg",
+    "subject": "Farmers' market"
+  },
+  "prices": {
+    "imageAsset": "assets/images/anecdotes/e_prices.jpg",
+    "imageCredit": "GeoTrinity",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pullietikett.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Pullietikett.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Pullietikett.jpg",
+    "subject": "Price tag"
+  },
+  "choice": {
+    "imageAsset": "assets/images/anecdotes/e_choice.jpg",
+    "imageCredit": "Jcart1534",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Byward_Market_Fruit_Stand.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Byward_Market_Fruit_Stand.jpg/960px-Byward_Market_Fruit_Stand.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Byward_Market_Fruit_Stand.jpg",
+    "subject": "Fruit stand"
+  },
+  "shop": {
+    "imageAsset": "assets/images/anecdotes/e_shop.jpg",
+    "imageCredit": "MsSaraKelly",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Shopkeeper_Ironing_in_Cancun_Mexico.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Shopkeeper_Ironing_in_Cancun_Mexico.jpg/960px-Shopkeeper_Ironing_in_Cancun_Mexico.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Shopkeeper_Ironing_in_Cancun_Mexico.jpg",
+    "subject": "Shopkeeper"
+  },
+  "pollution": {
+    "imageAsset": "assets/images/anecdotes/e_pollution.jpg",
+    "imageCredit": "Janak Bhatta",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Air_pollution3.jpg/960px-Air_pollution3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Air_pollution3.jpg",
+    "subject": "Air pollution"
+  },
+  "lighthouse": {
+    "imageAsset": "assets/images/anecdotes/e_lighthouse.jpg",
+    "imageCredit": "Walter Rademacher, derivative work Lämpel",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg/960px-Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Aerial_photograph_60D_2012_05_13_8760_DxO_retusche.jpg",
+    "subject": "Lighthouse"
+  },
+  "trade": {
+    "imageAsset": "assets/images/anecdotes/e_trade.jpg",
+    "imageCredit": "kees torn",
+    "imageLicense": "CC BY-SA 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MAERSK_MC_KINNEY_M%C3%96LLER_%26_MARSEILLE_MAERSK_(48694054418).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/MAERSK_MC_KINNEY_M%C3%96LLER_%26_MARSEILLE_MAERSK_%2848694054418%29.jpg/960px-MAERSK_MC_KINNEY_M%C3%96LLER_%26_MARSEILLE_MAERSK_%2848694054418%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "MAERSK_MC_KINNEY_MÖLLER_&_MARSEILLE_MAERSK_(48694054418).jpg",
+    "subject": "Container ship"
+  },
+  "inflation": {
+    "imageAsset": "assets/images/anecdotes/e_inflation.jpg",
+    "imageCredit": "NYC Guru",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Stop%26Shop.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Stop%26Shop.jpg/960px-Stop%26Shop.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Stop&Shop.jpg",
+    "subject": "Supermarket"
+  },
+  "chess": {
+    "imageAsset": "assets/images/anecdotes/e_chess.jpg",
+    "imageCredit": "Alan Light",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "ChessSet.jpg",
+    "subject": "Chess"
+  },
+  "go": {
+    "imageAsset": "assets/images/anecdotes/e_go.jpg",
+    "imageCredit": "Goban1",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:FloorGoban.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/FloorGoban.JPG/960px-FloorGoban.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "FloorGoban.JPG",
+    "subject": "Go (game)"
+  },
+  "backgammon": {
+    "imageAsset": "assets/images/anecdotes/e_backgammon.png",
+    "imageCredit": "Ptkfgs",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Backgammon_lg.png",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Backgammon_lg.png/960px-Backgammon_lg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Backgammon_lg.png",
+    "subject": "Backgammon"
+  },
+  "bridge": {
+    "imageAsset": "assets/images/anecdotes/e_bridge.jpg",
+    "imageCredit": "Sigismund von Dobschütz",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bridge-Gro%C3%9Fschlemm.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Bridge-Gro%C3%9Fschlemm.JPG/960px-Bridge-Gro%C3%9Fschlemm.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Bridge-Großschlemm.JPG",
+    "subject": "Contract bridge"
+  },
+  "lewis": {
+    "imageAsset": "assets/images/anecdotes/e_lewis.jpg",
+    "imageCredit": "National Museums Scotland",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NMSLewisChessmen28.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/NMSLewisChessmen28.jpg/960px-NMSLewisChessmen28.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "NMSLewisChessmen28.jpg",
+    "subject": "Lewis chessmen"
+  },
+  "mancala": {
+    "imageAsset": "assets/images/anecdotes/e_mancala.jpg",
+    "imageCredit": "MozMozJ",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yao_People_Playing_%22Bawo%22.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Yao_People_Playing_%22Bawo%22.jpg/960px-Yao_People_Playing_%22Bawo%22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Yao_People_Playing_\"Bawo\".jpg",
+    "subject": "Mancala"
+  },
+  "chessclock": {
+    "imageAsset": "assets/images/anecdotes/e_chessclock.jpg",
+    "imageCredit": "Michael Hofmann, Kitzingen.",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Schachuhr_mechanisch.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Schachuhr_mechanisch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Schachuhr_mechanisch.jpg",
+    "subject": "Chess clock"
+  },
+  "zipper": {
+    "imageAsset": "assets/images/anecdotes/e_zipper.jpg",
+    "imageCredit": "Woodbine9",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Coil_plastic_and_metal_zippers.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Coil_plastic_and_metal_zippers.jpg/960px-Coil_plastic_and_metal_zippers.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Coil_plastic_and_metal_zippers.jpg",
+    "subject": "Zipper"
+  },
+  "safetypin": {
+    "imageAsset": "assets/images/anecdotes/e_safetypin.jpg",
+    "imageCredit": "Haragayato",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Safety_Pin.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Safety_Pin.jpg/960px-Safety_Pin.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Safety_Pin.jpg",
+    "subject": "Safety pin"
+  },
+  "ballpoint": {
+    "imageAsset": "assets/images/anecdotes/e_ballpoint.jpg",
+    "imageCredit": "Trounce",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:03-BICcristal2008-03-26.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/03-BICcristal2008-03-26.jpg/960px-03-BICcristal2008-03-26.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "03-BICcristal2008-03-26.jpg",
+    "subject": "Ballpoint pen"
+  },
+  "soap": {
+    "imageAsset": "assets/images/anecdotes/e_soap.jpg",
+    "imageCredit": "Malene Thyssen, simplified by HLHJ",
+    "imageLicense": "CC BY 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Handmade_soap_cropped_and_simplified.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Handmade_soap_cropped_and_simplified.jpg/960px-Handmade_soap_cropped_and_simplified.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Handmade_soap_cropped_and_simplified.jpg",
+    "subject": "Soap"
+  },
+  "candle": {
+    "imageAsset": "assets/images/anecdotes/e_candle.jpg",
+    "imageCredit": "LA2",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LA2_Skultuna_kontorsljusstake.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/LA2_Skultuna_kontorsljusstake.jpg/960px-LA2_Skultuna_kontorsljusstake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "LA2_Skultuna_kontorsljusstake.jpg",
+    "subject": "Candle"
+  },
+  "mirror": {
+    "imageAsset": "assets/images/anecdotes/e_mirror.jpg",
+    "imageCredit": "Cgs",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mirror.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mirror.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Mirror.jpg",
+    "subject": "Mirror"
+  },
+  "flask": {
+    "imageAsset": "assets/images/anecdotes/e_flask.jpg",
+    "imageCredit": "Denae Bedard",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Thermos.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Thermos.JPG/960px-Thermos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Thermos.JPG",
+    "subject": "Vacuum flask"
+  },
+  "scissors": {
+    "imageAsset": "assets/images/anecdotes/e_scissors.jpg",
+    "imageCredit": "Doggerelblogger",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Standard_household_scissors.jpg/960px-Standard_household_scissors.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Standard_household_scissors.jpg",
+    "subject": "Scissors"
+  },
+  "sleep": {
+    "imageAsset": "assets/images/anecdotes/e_sleep.jpg",
+    "imageCredit": "R-E-AL (talk | contribs | Gallery)  (German Wikipedia)",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/2008-04-12_Freilichtmuseum_Detmold_%2811%29.jpg/960px-2008-04-12_Freilichtmuseum_Detmold_%2811%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "2008-04-12_Freilichtmuseum_Detmold_(11).jpg",
+    "subject": "Bed"
+  },
+  "groups": {
+    "imageAsset": "assets/images/anecdotes/e_groups.jpg",
+    "imageCredit": "Alex Proimos from Sydney, Australia",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CrossWalk_(5465840138).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/CrossWalk_%285465840138%29.jpg/960px-CrossWalk_%285465840138%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "CrossWalk_(5465840138).jpg",
+    "subject": "Pedestrian"
+  },
+  "spores": {
+    "imageAsset": "assets/images/anecdotes/e_spores.jpg",
+    "imageCredit": "Daniel Ullrich, Threedots",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Single_lycoperdon_perlatum.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/35/Single_lycoperdon_perlatum.jpg/960px-Single_lycoperdon_perlatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Single_lycoperdon_perlatum.jpg",
+    "subject": "Lycoperdon perlatum"
+  },
+  "penicillium": {
+    "imageAsset": "assets/images/anecdotes/e_penicillium.jpg",
+    "imageCredit": "Crulina 98",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Penicillium_notatum.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Penicillium_notatum.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Penicillium_notatum.jpg",
+    "subject": "Penicillium chrysogenum"
+  },
+  "ammonite": {
+    "imageAsset": "assets/images/anecdotes/e_ammonite.jpg",
+    "imageCredit": "Llez (H. Zell).",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pleuroceras_solare,_Little_Switzerland,_Bavaria,_Germany.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/00/Pleuroceras_solare%2C_Little_Switzerland%2C_Bavaria%2C_Germany.jpg/960px-Pleuroceras_solare%2C_Little_Switzerland%2C_Bavaria%2C_Germany.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Pleuroceras_solare,_Little_Switzerland,_Bavaria,_Germany.jpg",
+    "subject": "Ammonoidea"
+  },
+  "budget": {
+    "imageAsset": "assets/images/anecdotes/e_budget.jpg",
+    "imageCredit": "Tim Reckmann from Hamm, Deutschland",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Frau_mit_Einkaufswagen_(37939692236).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Frau_mit_Einkaufswagen_%2837939692236%29.jpg/960px-Frau_mit_Einkaufswagen_%2837939692236%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Frau_mit_Einkaufswagen_(37939692236).jpg",
+    "subject": "Shopping cart"
+  },
+  "electricity": {
+    "imageAsset": "assets/images/anecdotes/e_electricity.jpg",
+    "imageCredit": "Allalone89",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Melbourne_Terminal_Station.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/27/Melbourne_Terminal_Station.JPG/960px-Melbourne_Terminal_Station.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Melbourne_Terminal_Station.JPG",
+    "subject": "Substation"
+  },
+  "mycorrhiza": {
+    "imageAsset": "assets/images/anecdotes/e_mycorrhiza.jpg",
+    "imageCredit": "Ellen Larsson",
+    "imageLicense": "CC BY 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mycorrhizal_root_tips_(amanita).jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mycorrhizal_root_tips_%28amanita%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "originalFile": "Mycorrhizal_root_tips_(amanita).jpg",
+    "subject": "Ectomycorrhiza"
+  },
+  "hookloop": {
+    "imageAsset": "assets/images/anecdotes/e_hookloop.jpg",
+    "imageCredit": "Alexander Klink",
+    "imageLicense": "CC BY 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Velcro_Hooks.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Velcro_Hooks.jpg/960px-Velcro_Hooks.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Velcro_Hooks.jpg",
+    "subject": "Hook-and-loop fastener"
+  },
+  "gestalt": {
+    "imageAsset": "assets/images/anecdotes/e_problem.jpg",
+    "imageCredit": "Scouten",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jigsaw_puzzle_01_by_Scouten.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Jigsaw_puzzle_01_by_Scouten.jpg/960px-Jigsaw_puzzle_01_by_Scouten.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Jigsaw_puzzle_01_by_Scouten.jpg",
+    "subject": "Jigsaw puzzle"
+  },
+  "research": {
+    "imageAsset": "assets/images/anecdotes/e_study.jpg",
+    "imageCredit": "bfishadow",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Flash_cards_for_language_learning.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Flash_cards_for_language_learning.jpg/960px-Flash_cards_for_language_learning.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "originalFile": "Flash_cards_for_language_learning.jpg",
+    "subject": "Flashcard"
+  },
+  "ur": {
+    "imageAsset": "assets/images/anecdotes/e_ur.jpg",
+    "imageCredit": "BabelStone (Andrew West)",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:British_Museum_Royal_Game_of_Ur.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/British_Museum_Royal_Game_of_Ur.jpg/960px-British_Museum_Royal_Game_of_Ur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "senet": {
+    "imageAsset": "assets/images/anecdotes/e_senet.jpg",
+    "imageCredit": "The Metropolitan Museum of Art",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://www.metmuseum.org/art/collection/search/544775",
+    "downloadUrl": "https://images.metmuseum.org/CRDImages/eg/web-large/DP310299.jpg"
+  },
+  "holes": {
+    "imageAsset": "assets/images/anecdotes/e_holes.jpg",
+    "imageCredit": "The Metropolitan Museum of Art",
+    "imageLicense": "CC0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Game_of_Hounds_and_Jackals_MET_DP264105.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Game_of_Hounds_and_Jackals_MET_DP264105.jpg/960px-Game_of_Hounds_and_Jackals_MET_DP264105.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  },
+  "pressurecooker": {
+    "imageAsset": "assets/images/anecdotes/e_pressurecooker.jpg",
+    "imageCredit": "FischX · modifications : Wikinaut",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pressure_cooker.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/58/Pressure_cooker.jpg/960px-Pressure_cooker.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
+  }
+}

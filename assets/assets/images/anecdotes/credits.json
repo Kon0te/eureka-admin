@@ -1,0 +1,146 @@
+{
+  "espace": {
+    "imageAsset": "assets/images/anecdotes/espace.jpg",
+    "imageCredit": "NASA/JPL-Caltech",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/0/08/Venus_from_Mariner_10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Venus_from_Mariner_10.jpg"
+  },
+  "oceans": {
+    "imageAsset": "assets/images/anecdotes/oceans.jpg",
+    "imageCredit": "Juan Cruzado Cortés",
+    "imageLicense": "CC BY 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Humpback_whale_breaching_off_Cabo_San_Lucas.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Humpback_whale_breaching_off_Cabo_San_Lucas.jpg/1280px-Humpback_whale_breaching_off_Cabo_San_Lucas.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "originalFile": "Humpback_whale_breaching_off_Cabo_San_Lucas.jpg"
+  },
+  "animaux": {
+    "imageAsset": "assets/images/anecdotes/animaux.jpg",
+    "imageCredit": "albert kok",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Octopus2.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Octopus2.jpg/1280px-Octopus2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Octopus2.jpg"
+  },
+  "plantes": {
+    "imageAsset": "assets/images/anecdotes/plantes.jpg",
+    "imageCredit": "Kamakura",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Bamboo_forest.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Bamboo_forest.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Bamboo_forest.jpg"
+  },
+  "terre": {
+    "imageAsset": "assets/images/anecdotes/terre.jpg",
+    "imageCredit": "Giles Laurent",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg/1280px-001_Volcano_eruption_of_Litli-Hr%C3%BAtur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg"
+  },
+  "corps": {
+    "imageAsset": "assets/images/anecdotes/corps.jpg",
+    "imageCredit": "Genusfotografen (Tomas Gunnarsson) / Wikimedia Sverige",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_right_ear_(cropped).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/Human_right_ear_%28cropped%29.jpg/1280px-Human_right_ear_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Human_right_ear_(cropped).jpg"
+  },
+  "physique": {
+    "imageAsset": "assets/images/anecdotes/physique.png",
+    "imageCredit": "Arpad Horvath",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:LHC.svg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/LHC.svg/1280px-LHC.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "originalFile": "LHC.svg"
+  },
+  "histoire": {
+    "imageAsset": "assets/images/anecdotes/histoire.jpg",
+    "imageCredit": "\nHans Hillewaert",
+    "imageLicense": "CC BY-SA 4.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta_Stone.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Rosetta_Stone.JPG/1280px-Rosetta_Stone.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "originalFile": "Rosetta_Stone.JPG"
+  },
+  "art": {
+    "imageAsset": "assets/images/anecdotes/art.jpg",
+    "imageCredit": "Leonardo da Vinci",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mona_Lisa.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Mona_Lisa.jpg/1280px-Mona_Lisa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "Mona_Lisa.jpg"
+  },
+  "musique": {
+    "imageAsset": "assets/images/anecdotes/musique.jpg",
+    "imageCredit": "Gryffindor",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Steinway_Vienna_002.JPG",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/01/Steinway_Vienna_002.JPG/1280px-Steinway_Vienna_002.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "originalFile": "Steinway_Vienna_002.JPG"
+  },
+  "ecriture": {
+    "imageAsset": "assets/images/anecdotes/ecriture.jpg",
+    "imageCredit": "Stefan Malmesjö",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Reading_Braille.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Reading_Braille.jpg/1280px-Reading_Braille.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "Reading_Braille.jpg"
+  },
+  "cuisine": {
+    "imageAsset": "assets/images/anecdotes/cuisine.jpg",
+    "imageCredit": "Franz Eugen Köhler, Köhler's Medizinal-Pflanzen",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vanilla_planifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-278.jpg",
+    "downloadUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Vanilla_planifolia_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-278.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+    "licenseUrl": "",
+    "originalFile": "Vanilla_planifolia_-_Köhler–s_Medizinal-Pflanzen-278.jpg"
+  },
+  "sport": {
+    "imageAsset": "assets/images/anecdotes/sport.jpg",
+    "imageCredit": "Bratislavská župa from Bratislava, Slovakia",
+    "imageLicense": "CC BY 2.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:BSK_CSOB_MARATON046_(33791445325).jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/BSK_CSOB_MARATON046_%2833791445325%29.jpg/1280px-BSK_CSOB_MARATON046_%2833791445325%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "originalFile": "BSK_CSOB_MARATON046_(33791445325).jpg"
+  },
+  "insectes": {
+    "imageAsset": "assets/images/anecdotes/insectes.jpg",
+    "imageCredit": "Andreas Trepte",
+    "imageLicense": "CC BY-SA 2.5",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Apis_mellifera_Western_honey_bee.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Apis_mellifera_Western_honey_bee.jpg/1280px-Apis_mellifera_Western_honey_bee.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.5",
+    "originalFile": "Apis_mellifera_Western_honey_bee.jpg"
+  },
+  "poles": {
+    "imageAsset": "assets/images/anecdotes/poles.png",
+    "imageCredit": "Heraldry",
+    "imageLicense": "CC BY-SA 3.0",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Antarctica_(orthographic_projection).svg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Antarctica_%28orthographic_projection%29.svg/1280px-Antarctica_%28orthographic_projection%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/",
+    "originalFile": "Antarctica_(orthographic_projection).svg"
+  },
+  "exploration": {
+    "imageAsset": "assets/images/anecdotes/exploration.jpg",
+    "imageCredit": "NASA",
+    "imageLicense": "Public domain",
+    "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:The_Sounds_of_Earth_-_GPN-2000-001976.jpg",
+    "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/The_Sounds_of_Earth_-_GPN-2000-001976.jpg/1280px-The_Sounds_of_Earth_-_GPN-2000-001976.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "licenseUrl": "",
+    "originalFile": "The_Sounds_of_Earth_-_GPN-2000-001976.jpg"
+  }
+}
