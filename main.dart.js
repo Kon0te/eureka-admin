@@ -59662,7 +59662,7 @@ q=d.h(0,"active_accounts")
 q=i.zV(a0,"Comptes actifs \xb7 Moments",typeof q=="number"?A.oy("fr").fe(q):"\u2014",B.WL,B.a6,"Comptes confirm\xe9s ayant ouvert ou termin\xe9 un Moment")
 p=b.h(0,"sessions")
 o=t.p
-p=A.b([a,i.No(A.b([r,q,i.zV(a0,"Sessions D\xe9couvertes",typeof p=="number"?A.oy("fr").fe(p):"\u2014",B.Xa,B.nk,"Visites consenties du fil \xb7 une personne peut revenir"),i.zV(a0,"Retours sans installation","\u2014",B.X6,B.b1,"Non mesur\xe9 : aucun lien fiable entre visites et installations")],o)),B.v,A.H("Installations : donn\xe9es jusqu\u2019au "+A.at5(e.h(0,"observed_to"))+" \xb7 Import du "+A.at5(e.h(0,"source_freshness")),h,h,h,h,A.t(a0).ok.Q,h,h,h)],o)
+p=A.b([a,i.No(A.b([r,q,i.zV(a0,"Sessions D\xe9couvertes",typeof p=="number"?A.oy("fr").fe(p):"\u2014",B.Xa,B.nk,"Visites consenties du fil \xb7 une personne peut revenir"),i.zV(a0,"Retours sans installation","\u2014",B.X6,B.b1,"Non mesur\xe9 : aucun lien fiable entre visites et installations")],o)),B.v,A.H("Installations : donn\xe9es jusqu\u2019au "+A.at5(e.h(0,"observed_to"))+" \xb7 Import le plus ancien de la p\xe9riode : "+A.at5(e.h(0,"source_freshness")),h,h,h,h,A.t(a0).ok.Q,h,h,h)],o)
 if(J.c(e.h(0,"data_quality_status"),"DATA_QUALITY_ALERT"))p.push(B.ap1)
 if(J.c(g.h(0,"appsflyer_aggregate_unavailable"),!0))p.push(B.anO)
 p.push(B.bt)
