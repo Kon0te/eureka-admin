@@ -33,7 +33,7 @@ addEventListener("message", eventListener);
 if (!window._flutter) {
   window._flutter = {};
 }
-_flutter.buildConfig = {"engineRevision":"69c8c61792f04cc809dfef0c910414fb9afc06cd","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js?v=local-source-106499b8c191"},{}],"useLocalCanvasKit":true};
+_flutter.buildConfig = {"engineRevision":"69c8c61792f04cc809dfef0c910414fb9afc06cd","builds":[{"compileTarget":"dart2js","renderer":"canvaskit","mainJsPath":"main.dart.js?v=local-source-32db222f0488"},{}],"useLocalCanvasKit":true};
 
 
 // Flutter's generated service worker is deprecated and previously kept an
