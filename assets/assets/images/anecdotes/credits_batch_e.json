@@ -63,7 +63,7 @@
     "subject": "Hydroelectricity"
   },
   "solar": {
-    "imageAsset": "assets/images/anecdotes/e_solar.jpg",
+    "imageAsset": "assets/images/anecdotes/e_solar.webp",
     "imageCredit": "Parabel GmbH",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Solarpark_J%C3%A4nnersdorf.jpg",
@@ -99,7 +99,7 @@
     "subject": "Woodchips"
   },
   "hydrogen": {
-    "imageAsset": "assets/images/anecdotes/e_hydrogen.png",
+    "imageAsset": "assets/images/anecdotes/e_hydrogen.webp",
     "imageCredit": "DOE",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Liquid_Hydrogen_Tank_at_NASA%27s_Kennedy_Space_Center.png",
@@ -117,7 +117,7 @@
     "subject": "Nuclear power plant"
   },
   "meter": {
-    "imageAsset": "assets/images/anecdotes/e_meter.jpg",
+    "imageAsset": "assets/images/anecdotes/e_meter.webp",
     "imageCredit": "Greg Goebel from Loveland CO, USA",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yipwm_1b_(7691592010).jpg",
@@ -196,7 +196,7 @@
     "subject": "Pleurotus ostreatus"
   },
   "trilobite": {
-    "imageAsset": "assets/images/anecdotes/e_trilobite.png",
+    "imageAsset": "assets/images/anecdotes/e_trilobite.webp",
     "imageCredit": "PaleoNeolitic (montage creator)",
     "imageLicense": "CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Trilobita_Diversity.png",
@@ -205,7 +205,7 @@
     "subject": "Trilobite"
   },
   "fossil": {
-    "imageAsset": "assets/images/anecdotes/e_fossil.png",
+    "imageAsset": "assets/images/anecdotes/e_fossil.webp",
     "imageCredit": "PaleoNeolitic (montage creator)",
     "imageLicense": "CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fossil_Diversity.png",
@@ -214,7 +214,7 @@
     "subject": "Fossil"
   },
   "stegosaurus": {
-    "imageAsset": "assets/images/anecdotes/e_stegosaurus.jpg",
+    "imageAsset": "assets/images/anecdotes/e_stegosaurus.webp",
     "imageCredit": "Susannah Maidment et al. & Natural History Museum, London",
     "imageLicense": "CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Journal.pone.0138352.g001A.jpg",
@@ -286,7 +286,7 @@
     "subject": "Assembly line"
   },
   "market": {
-    "imageAsset": "assets/images/anecdotes/e_market.jpg",
+    "imageAsset": "assets/images/anecdotes/e_market.webp",
     "imageCredit": "No machine-readable author provided. Sstevenson24 assumed (based on copyright claims).",
     "imageLicense": "CC BY-SA 2.5",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Farmers_and_Artisans_Market_at_Farmington_-_Michigan.jpg",
@@ -295,7 +295,7 @@
     "subject": "Farmers' market"
   },
   "prices": {
-    "imageAsset": "assets/images/anecdotes/e_prices.jpg",
+    "imageAsset": "assets/images/anecdotes/e_prices.webp",
     "imageCredit": "GeoTrinity",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Pullietikett.jpg",
@@ -322,7 +322,7 @@
     "subject": "Shopkeeper"
   },
   "pollution": {
-    "imageAsset": "assets/images/anecdotes/e_pollution.jpg",
+    "imageAsset": "assets/images/anecdotes/e_pollution.webp",
     "imageCredit": "Janak Bhatta",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Air_pollution3.jpg",
@@ -358,7 +358,7 @@
     "subject": "Supermarket"
   },
   "chess": {
-    "imageAsset": "assets/images/anecdotes/e_chess.jpg",
+    "imageAsset": "assets/images/anecdotes/e_chess.webp",
     "imageCredit": "Alan Light",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:ChessSet.jpg",
@@ -376,7 +376,7 @@
     "subject": "Go (game)"
   },
   "backgammon": {
-    "imageAsset": "assets/images/anecdotes/e_backgammon.png",
+    "imageAsset": "assets/images/anecdotes/e_backgammon.webp",
     "imageCredit": "Ptkfgs",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Backgammon_lg.png",
@@ -412,7 +412,7 @@
     "subject": "Mancala"
   },
   "chessclock": {
-    "imageAsset": "assets/images/anecdotes/e_chessclock.jpg",
+    "imageAsset": "assets/images/anecdotes/e_chessclock.webp",
     "imageCredit": "Michael Hofmann, Kitzingen.",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Schachuhr_mechanisch.jpg",
@@ -430,7 +430,7 @@
     "subject": "Zipper"
   },
   "safetypin": {
-    "imageAsset": "assets/images/anecdotes/e_safetypin.jpg",
+    "imageAsset": "assets/images/anecdotes/e_safetypin.webp",
     "imageCredit": "Haragayato",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Safety_Pin.jpg",
@@ -439,7 +439,7 @@
     "subject": "Safety pin"
   },
   "ballpoint": {
-    "imageAsset": "assets/images/anecdotes/e_ballpoint.jpg",
+    "imageAsset": "assets/images/anecdotes/e_ballpoint.webp",
     "imageCredit": "Trounce",
     "imageLicense": "CC BY 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:03-BICcristal2008-03-26.jpg",
@@ -484,7 +484,7 @@
     "subject": "Vacuum flask"
   },
   "scissors": {
-    "imageAsset": "assets/images/anecdotes/e_scissors.jpg",
+    "imageAsset": "assets/images/anecdotes/e_scissors.webp",
     "imageCredit": "Doggerelblogger",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Standard_household_scissors.jpg",
@@ -599,14 +599,14 @@
     "downloadUrl": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/British_Museum_Royal_Game_of_Ur.jpg/960px-British_Museum_Royal_Game_of_Ur.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail"
   },
   "senet": {
-    "imageAsset": "assets/images/anecdotes/e_senet.jpg",
+    "imageAsset": "assets/images/anecdotes/e_senet.webp",
     "imageCredit": "The Metropolitan Museum of Art",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://www.metmuseum.org/art/collection/search/544775",
     "downloadUrl": "https://images.metmuseum.org/CRDImages/eg/web-large/DP310299.jpg"
   },
   "holes": {
-    "imageAsset": "assets/images/anecdotes/e_holes.jpg",
+    "imageAsset": "assets/images/anecdotes/e_holes.webp",
     "imageCredit": "The Metropolitan Museum of Art",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Game_of_Hounds_and_Jackals_MET_DP264105.jpg",

@@ -1,5 +1,405 @@
 [
   {
+    "id": "manga_naruto",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Naruto",
+    "difficulty": "medium",
+    "description": "Villages, techniques et liens entre ninjas : retrouve les repères de Naruto."
+  },
+  {
+    "id": "manga_one_piece",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "One Piece",
+    "difficulty": "medium",
+    "description": "Embarque avec les Chapeaux de paille : équipage, îles et grandes aventures."
+  },
+  {
+    "id": "manga_dragon_ball",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Dragon Ball",
+    "difficulty": "medium",
+    "description": "Des premières Dragon Balls aux grands combats : teste tes repères de la saga."
+  },
+  {
+    "id": "manga_fullmetal_alchemist",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Fullmetal Alchemist",
+    "difficulty": "medium",
+    "description": "Frères Elric, alchimie et secrets d’Amestris, dans le manga et Brotherhood."
+  },
+  {
+    "id": "manga_death_note",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Death Note",
+    "difficulty": "medium",
+    "description": "Un carnet, des règles et un duel d’intelligence : entre dans l’enquête."
+  },
+  {
+    "id": "manga_demon_slayer",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Demon Slayer",
+    "difficulty": "medium",
+    "description": "Souffles, pourfendeurs et liens familiaux dans Kimetsu no Yaiba."
+  },
+  {
+    "id": "manga_attaque_titans",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "L’Attaque des Titans",
+    "difficulty": "medium",
+    "description": "Murs, bataillons et secrets : les repères du récit d’Hajime Isayama."
+  },
+  {
+    "id": "manga_my_hero_academia",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "My Hero Academia",
+    "difficulty": "medium",
+    "description": "Alters, apprentis héros et vie à Yuei : explore l’univers de Deku."
+  },
+  {
+    "id": "manga_haikyu",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Haikyu!!",
+    "difficulty": "medium",
+    "description": "Karasuno, ses rivaux et les gestes du volley : entre sur le terrain."
+  },
+  {
+    "id": "manga_sailor_moon",
+    "familyId": "manga",
+    "familyTitle": "Mangas",
+    "title": "Sailor Moon",
+    "difficulty": "medium",
+    "description": "Guerrières, planètes et royaume lunaire dans le manga de Naoko Takeuchi."
+  },
+  {
+    "id": "jeux_video_mario",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Super Mario",
+    "difficulty": "medium",
+    "description": "Personnages, objets et mondes emblématiques des aventures de Mario."
+  },
+  {
+    "id": "jeux_video_zelda",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "The Legend of Zelda",
+    "difficulty": "medium",
+    "description": "Hyrule, ses héros et les objets de ses différentes légendes."
+  },
+  {
+    "id": "jeux_video_pokemon",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Pokémon",
+    "difficulty": "medium",
+    "description": "Types, évolutions et repères des premiers jeux Pokémon."
+  },
+  {
+    "id": "jeux_video_minecraft",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Minecraft",
+    "difficulty": "medium",
+    "description": "Survie, blocs et fabrication : les mécanismes du monde cubique."
+  },
+  {
+    "id": "jeux_video_animal_crossing",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Animal Crossing",
+    "difficulty": "medium",
+    "description": "La vie insulaire de New Horizons : voisins, collections et petits projets."
+  },
+  {
+    "id": "jeux_video_sonic",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Sonic",
+    "difficulty": "medium",
+    "description": "Vitesse, anneaux et personnages des jeux Sonic."
+  },
+  {
+    "id": "jeux_video_stardew_valley",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Stardew Valley",
+    "difficulty": "medium",
+    "description": "Ferme, village et saisons : retrouve les bases de la vallée."
+  },
+  {
+    "id": "jeux_video_portal",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Portal",
+    "difficulty": "medium",
+    "description": "Portails, salles de test et intelligence artificielle dans Portal et Portal 2."
+  },
+  {
+    "id": "jeux_video_professeur_layton",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Professeur Layton",
+    "difficulty": "medium",
+    "description": "Enquêtes, énigmes et compagnons du célèbre professeur."
+  },
+  {
+    "id": "jeux_video_les_sims",
+    "familyId": "jeux_video",
+    "familyTitle": "Jeux vidéo",
+    "title": "Les Sims",
+    "difficulty": "medium",
+    "description": "Besoins, construction et vie quotidienne dans Les Sims 4 de base."
+  },
+  {
+    "id": "cinema_univers_harry_potter",
+    "familyId": "cinema_univers",
+    "familyTitle": "Sagas de cinéma",
+    "title": "Harry Potter",
+    "difficulty": "medium",
+    "description": "Personnages, objets et lieux des huit films Harry Potter."
+  },
+  {
+    "id": "cinema_univers_seigneur_anneaux",
+    "familyId": "cinema_univers",
+    "familyTitle": "Sagas de cinéma",
+    "title": "Le Seigneur des anneaux",
+    "difficulty": "medium",
+    "description": "La Communauté et sa quête, dans la trilogie de Peter Jackson."
+  },
+  {
+    "id": "cinema_univers_star_wars",
+    "familyId": "cinema_univers",
+    "familyTitle": "Sagas de cinéma",
+    "title": "Star Wars",
+    "difficulty": "medium",
+    "description": "Jedi, droïdes et planètes des épisodes I à VI."
+  },
+  {
+    "id": "cinema_univers_retour_futur",
+    "familyId": "cinema_univers",
+    "familyTitle": "Sagas de cinéma",
+    "title": "Retour vers le futur",
+    "difficulty": "medium",
+    "description": "Voyages temporels, paradoxes et détails de la trilogie."
+  },
+  {
+    "id": "cinema_univers_jurassic_park",
+    "familyId": "cinema_univers",
+    "familyTitle": "Sagas de cinéma",
+    "title": "Jurassic Park",
+    "difficulty": "medium",
+    "description": "Îles, scientifiques et dinosaures de Jurassic Park et des premiers Jurassic World."
+  },
+  {
+    "id": "destinations_japon",
+    "familyId": "destinations",
+    "familyTitle": "Destinations",
+    "title": "Japon",
+    "difficulty": "medium",
+    "description": "Îles, villes et savoir-faire : pars au-delà des clichés."
+  },
+  {
+    "id": "destinations_italie",
+    "familyId": "destinations",
+    "familyTitle": "Destinations",
+    "title": "Italie",
+    "difficulty": "medium",
+    "description": "Villes d’art, paysages et patrimoines de la péninsule."
+  },
+  {
+    "id": "destinations_egypte",
+    "familyId": "destinations",
+    "familyTitle": "Destinations",
+    "title": "Égypte",
+    "difficulty": "medium",
+    "description": "Du Nil aux oasis, explore des lieux et des cultures millénaires."
+  },
+  {
+    "id": "destinations_mexique",
+    "familyId": "destinations",
+    "familyTitle": "Destinations",
+    "title": "Mexique",
+    "difficulty": "medium",
+    "description": "Sites anciens, villes colorées et paysages du Mexique."
+  },
+  {
+    "id": "destinations_australie",
+    "familyId": "destinations",
+    "familyTitle": "Destinations",
+    "title": "Australie",
+    "difficulty": "medium",
+    "description": "De l’Outback aux côtes, découvre un continent singulier."
+  },
+  {
+    "id": "gastronomie_chocolat",
+    "familyId": "gastronomie",
+    "familyTitle": "Gastronomie",
+    "title": "Chocolat",
+    "difficulty": "medium",
+    "description": "De la cabosse au bonbon, décrypte le travail du chocolat."
+  },
+  {
+    "id": "gastronomie_fromages",
+    "familyId": "gastronomie",
+    "familyTitle": "Gastronomie",
+    "title": "Fromages",
+    "difficulty": "medium",
+    "description": "Laits, affinages et terroirs : entre dans la fromagerie."
+  },
+  {
+    "id": "gastronomie_pains",
+    "familyId": "gastronomie",
+    "familyTitle": "Gastronomie",
+    "title": "Pains du monde",
+    "difficulty": "medium",
+    "description": "Croûtes, farines et traditions boulangères autour du monde."
+  },
+  {
+    "id": "gastronomie_patisserie",
+    "familyId": "gastronomie",
+    "familyTitle": "Gastronomie",
+    "title": "Pâtisserie",
+    "difficulty": "medium",
+    "description": "Gestes précis, pâtes et grands classiques sucrés."
+  },
+  {
+    "id": "gastronomie_epices",
+    "familyId": "gastronomie",
+    "familyTitle": "Gastronomie",
+    "title": "Épices",
+    "difficulty": "medium",
+    "description": "Graines, racines et arômes : retrouve les origines des épices."
+  },
+  {
+    "id": "sciences_vivant_genetique",
+    "familyId": "sciences_vivant",
+    "familyTitle": "Sciences du vivant",
+    "title": "Génétique",
+    "difficulty": "medium",
+    "description": "Des lettres de l’ADN aux mécanismes de l’hérédité."
+  },
+  {
+    "id": "sciences_vivant_microbes",
+    "familyId": "sciences_vivant",
+    "familyTitle": "Sciences du vivant",
+    "title": "Microbes",
+    "difficulty": "medium",
+    "description": "Un monde minuscule aux rôles bien plus variés qu’on ne l’imagine."
+  },
+  {
+    "id": "sciences_vivant_neurones",
+    "familyId": "sciences_vivant",
+    "familyTitle": "Sciences du vivant",
+    "title": "Cerveau et neurones",
+    "difficulty": "medium",
+    "description": "Explore les circuits, les signaux et les structures du cerveau."
+  },
+  {
+    "id": "sciences_vivant_pollinisation",
+    "familyId": "sciences_vivant",
+    "familyTitle": "Sciences du vivant",
+    "title": "Abeilles et pollinisation",
+    "difficulty": "medium",
+    "description": "Dans les fleurs et les nids, découvre la diversité des pollinisateurs."
+  },
+  {
+    "id": "sciences_vivant_champignons",
+    "familyId": "sciences_vivant",
+    "familyTitle": "Sciences du vivant",
+    "title": "Champignons",
+    "difficulty": "medium",
+    "description": "Un règne discret : filaments, spores et alliances étonnantes."
+  },
+  {
+    "id": "espace_aventure_lune",
+    "familyId": "espace_aventure",
+    "familyTitle": "Aventures spatiales",
+    "title": "Lune",
+    "difficulty": "medium",
+    "description": "Reliefs, phases et mystères de notre voisine."
+  },
+  {
+    "id": "espace_aventure_mars",
+    "familyId": "espace_aventure",
+    "familyTitle": "Aventures spatiales",
+    "title": "Mars",
+    "difficulty": "medium",
+    "description": "Rovers, paysages et indices d’un passé humide."
+  },
+  {
+    "id": "espace_aventure_conquete",
+    "familyId": "espace_aventure",
+    "familyTitle": "Aventures spatiales",
+    "title": "Conquête spatiale",
+    "difficulty": "medium",
+    "description": "Les missions et les personnes qui ont ouvert la route de l’espace."
+  },
+  {
+    "id": "espace_aventure_etoiles",
+    "familyId": "espace_aventure",
+    "familyTitle": "Aventures spatiales",
+    "title": "Étoiles",
+    "difficulty": "medium",
+    "description": "Couleurs, distances et destins des étoiles."
+  },
+  {
+    "id": "espace_aventure_orbites",
+    "familyId": "espace_aventure",
+    "familyTitle": "Aventures spatiales",
+    "title": "Satellites et orbites",
+    "difficulty": "medium",
+    "description": "Comprends les trajectoires qui rendent les satellites utiles."
+  },
+  {
+    "id": "sport_terrain_rugby",
+    "familyId": "sport_terrain",
+    "familyTitle": "Sports de terrain",
+    "title": "Rugby",
+    "difficulty": "medium",
+    "description": "Essais, mêlées et jeu collectif à quinze."
+  },
+  {
+    "id": "sport_terrain_volleyball",
+    "familyId": "sport_terrain",
+    "familyTitle": "Sports de terrain",
+    "title": "Volley-ball",
+    "difficulty": "medium",
+    "description": "Services, rotations et attaques au filet."
+  },
+  {
+    "id": "sport_terrain_handball",
+    "familyId": "sport_terrain",
+    "familyTitle": "Sports de terrain",
+    "title": "Handball",
+    "difficulty": "medium",
+    "description": "Tirs, zones et déplacements à sept."
+  },
+  {
+    "id": "sport_terrain_escalade",
+    "familyId": "sport_terrain",
+    "familyTitle": "Sports de terrain",
+    "title": "Escalade",
+    "difficulty": "medium",
+    "description": "Blocs, prises et défis sur le mur."
+  },
+  {
+    "id": "sport_terrain_natation",
+    "familyId": "sport_terrain",
+    "familyTitle": "Sports de terrain",
+    "title": "Natation",
+    "difficulty": "medium",
+    "description": "Nages, virages et courses en bassin."
+  },
+  {
     "id": "sport_football",
     "familyId": "sport",
     "familyTitle": "Sport",

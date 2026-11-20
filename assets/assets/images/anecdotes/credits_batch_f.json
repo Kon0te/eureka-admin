@@ -9,7 +9,7 @@
     "description": "Scanning electron micrograph of Escherichia coli, grown in culture and adhered to a cover slip. Credit: NIAID"
   },
   "archaea": {
-    "imageAsset": "assets/images/anecdotes/f_archaea.png",
+    "imageAsset": "assets/images/anecdotes/f_archaea.webp",
     "imageCredit": "Helga Stan-Lotter and Sergiu Fendrihan. Photograph taken by Chris Frethem, University of Minnesota.",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Halobacterium_salinarum_NRC-1.png",
@@ -18,7 +18,7 @@
     "description": "Scanning electron micrograph of rod form of Halobacterium salinarum NRC-1. Size bar = 270 nm"
   },
   "yeast": {
-    "imageAsset": "assets/images/anecdotes/f_yeast.jpg",
+    "imageAsset": "assets/images/anecdotes/f_yeast.webp",
     "imageCredit": "Mogana Das Murtey and Patchamuthu Ramasamy",
     "imageLicense": "CC BY 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Saccharomyces_cerevisiae_SEM.jpg",
@@ -45,7 +45,7 @@
     "description": "Assorted diatoms as seen through a microscope.  These specimens were living between crystals of annual sea ice in McMurdo Sound, Antarctica. Image digitized from original 35mm Ektachrome slide.  These tiny phytoplankton are encased within a silicate cell wall."
   },
   "amoeba": {
-    "imageAsset": "assets/images/anecdotes/f_amoeba.jpg",
+    "imageAsset": "assets/images/anecdotes/f_amoeba.webp",
     "imageCredit": "SmallRex",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Amoeba_proteus_with_many_pseudopodia.jpg",
@@ -63,7 +63,7 @@
     "description": "Paramecium aurelia. Optical microscope. Paramecium aurelia, the best known of all ciliates. The bubbles throughout the cell are vacuoles. The entire surface is covered in cilia, which are blurred by their rapid movement."
   },
   "euglena": {
-    "imageAsset": "assets/images/anecdotes/f_euglena.jpg",
+    "imageAsset": "assets/images/anecdotes/f_euglena.webp",
     "imageCredit": "Petr Knotek",
     "imageLicense": "CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Euglena_sociabilis_433143410.jpg",
@@ -117,7 +117,7 @@
     "description": "A person's left hand, showing the back and fingers."
   },
   "nose": {
-    "imageAsset": "assets/images/anecdotes/f_nose.jpg",
+    "imageAsset": "assets/images/anecdotes/f_nose.webp",
     "imageCredit": "Franco Folini",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
@@ -135,7 +135,7 @@
     "description": "Student slacklining at the University of Cambridge"
   },
   "cotton": {
-    "imageAsset": "assets/images/anecdotes/f_cotton.jpg",
+    "imageAsset": "assets/images/anecdotes/f_cotton.webp",
     "imageCredit": "USDA Natural Resources Conservation Service",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:CottonPlant.JPG",
@@ -189,7 +189,7 @@
     "description": "Ploëzal (Côtes-d'Armor, Bretagne, France) : Labyrinthe de chanvre au château de la Roche-Jagu."
   },
   "sisal": {
-    "imageAsset": "assets/images/anecdotes/f_sisal.jpg",
+    "imageAsset": "assets/images/anecdotes/f_sisal.webp",
     "imageCredit": "Wishmaster",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Plantsisal.jpg",
@@ -405,7 +405,7 @@
     "description": ""
   },
   "keyboard": {
-    "imageAsset": "assets/images/anecdotes/f_keyboard.jpg",
+    "imageAsset": "assets/images/anecdotes/f_keyboard.webp",
     "imageCredit": "Kambiel5",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Keyboard_Lenovo_ThinkPad_T440p_(QWERTY_layout).jpg",
@@ -459,7 +459,7 @@
     "description": "Showing blue LED screens giving MAC address and serial number. White cables are Ethernet cables. Each server features commodity PC outlets including a serial port, VGA port, PS/2 ports, and USB ports.\n\nCC0 waiver: To the extent possible under law, I waive all copyright and related or neighboring rights to this work."
   },
   "usb": {
-    "imageAsset": "assets/images/anecdotes/f_usb.jpg",
+    "imageAsset": "assets/images/anecdotes/f_usb.webp",
     "imageCredit": "Evan-Amos",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SanDisk-Cruzer-USB-4GB-ThumbDrive.jpg",
@@ -495,7 +495,7 @@
     "description": "Two IBM-style 12-row, 80-column punched cards"
   },
   "tongue": {
-    "imageAsset": "assets/images/anecdotes/f_tongue.jpg",
+    "imageAsset": "assets/images/anecdotes/f_tongue.webp",
     "imageCredit": "Mahdiabbasinv",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:%D8%B2%D8%A8%D8%A7%D9%86_tongue.jpg",

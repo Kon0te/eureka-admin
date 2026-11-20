@@ -8,7 +8,7 @@
     "originalFile": "Korb_mit_Brötchen.JPG"
   },
   "egg": {
-    "imageAsset": "assets/images/anecdotes/c-egg.jpg",
+    "imageAsset": "assets/images/anecdotes/c-egg.webp",
     "imageCredit": "Horacio Cambeiro",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Huevo_frito.jpg",
@@ -24,7 +24,7 @@
     "originalFile": "Sucre_blanc_cassonade_complet_rapadura.jpg"
   },
   "chocolate": {
-    "imageAsset": "assets/images/anecdotes/c-chocolate.jpg",
+    "imageAsset": "assets/images/anecdotes/c-chocolate.webp",
     "imageCredit": "Lynnereal",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Three_Bars_(1).jpg",
@@ -40,7 +40,7 @@
     "originalFile": "Coffee_Flowers.JPG"
   },
   "vanilla": {
-    "imageAsset": "assets/images/anecdotes/c-vanilla.jpg",
+    "imageAsset": "assets/images/anecdotes/c-vanilla.webp",
     "imageCredit": "Malcolm Manners from Lakeland FL, USA",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vanilla_planifolia_(6998639597).jpg",
@@ -72,7 +72,7 @@
     "originalFile": "Tomato_je.jpg"
   },
   "chili": {
-    "imageAsset": "assets/images/anecdotes/c-chili.jpg",
+    "imageAsset": "assets/images/anecdotes/c-chili.webp",
     "imageCredit": "Takeaway",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Madame_Jeanette_and_other_chillies.jpg",
@@ -136,7 +136,7 @@
     "originalFile": "ArcheryGermanyEarly1980s-2.jpg"
   },
   "judo": {
-    "imageAsset": "assets/images/anecdotes/c-judo.jpg",
+    "imageAsset": "assets/images/anecdotes/c-judo.webp",
     "imageCredit": "published by ベースボール・マガジン社",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jigoro_Kano_and_Kyuzo_Mifune_(restoration).jpg",
@@ -248,7 +248,7 @@
     "originalFile": "Apis_mellifera_Western_honey_bee.jpg"
   },
   "ant": {
-    "imageAsset": "assets/images/anecdotes/c-ant.jpg",
+    "imageAsset": "assets/images/anecdotes/c-ant.webp",
     "imageCredit": "Samantha Henneke from Seagrove, North Carolina, USA",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Red_Ant_-_March_2025.jpg",
@@ -304,7 +304,7 @@
     "originalFile": "Flea_Scanning_Electron_Micrograph_False_Color.jpg"
   },
   "mosquito": {
-    "imageAsset": "assets/images/anecdotes/c-mosquito.jpg",
+    "imageAsset": "assets/images/anecdotes/c-mosquito.webp",
     "imageCredit": "Alvesgaspar",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Culex_pipiens_2007-1.jpg",
@@ -320,7 +320,7 @@
     "originalFile": "Cicada_-_Neotibicen_linnei,_Woodbridge,_Virginia.jpg"
   },
   "emperor": {
-    "imageAsset": "assets/images/anecdotes/c-emperor.jpg",
+    "imageAsset": "assets/images/anecdotes/c-emperor.webp",
     "imageCredit": "Ian Duffy from UK",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
@@ -336,7 +336,7 @@
     "originalFile": "Hope_Bay-2016-Trinity_Peninsula–Adélie_penguin_(Pygoscelis_adeliae)_04.jpg"
   },
   "bear": {
-    "imageAsset": "assets/images/anecdotes/c-bear.jpg",
+    "imageAsset": "assets/images/anecdotes/c-bear.webp",
     "imageCredit": "Alan Wilson",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska_(cropped).jpg",
@@ -344,7 +344,7 @@
     "originalFile": "Polar_Bear_-_Alaska_(cropped).jpg"
   },
   "fox": {
-    "imageAsset": "assets/images/anecdotes/c-fox.jpg",
+    "imageAsset": "assets/images/anecdotes/c-fox.webp",
     "imageCredit": "Jonatan Pie (unsplash.com/@r3dmax)",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vulpes_lagopus_in_Iceland_(cropped_3).jpg",
@@ -376,7 +376,7 @@
     "originalFile": "Arctic_ice.jpg"
   },
   "icecore": {
-    "imageAsset": "assets/images/anecdotes/c-icecore.jpg",
+    "imageAsset": "assets/images/anecdotes/c-icecore.webp",
     "imageCredit": "Photo by Lonnie Thompson, Byrd Polar Research Center, Ohio State University.",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Icecore_4.jpg",
@@ -392,7 +392,7 @@
     "originalFile": "Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg"
   },
   "iceberg": {
-    "imageAsset": "assets/images/anecdotes/c-iceberg.jpg",
+    "imageAsset": "assets/images/anecdotes/c-iceberg.webp",
     "imageCredit": "AWeith",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Iceberg_in_the_Arctic_with_its_underside_exposed.jpg",
@@ -400,7 +400,7 @@
     "originalFile": "Iceberg_in_the_Arctic_with_its_underside_exposed.jpg"
   },
   "voyager": {
-    "imageAsset": "assets/images/anecdotes/c-voyager.jpg",
+    "imageAsset": "assets/images/anecdotes/c-voyager.webp",
     "imageCredit": "NASA",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Titan_3E_with_Voyager_1.jpg",
@@ -472,7 +472,7 @@
     "originalFile": "Cassini-Huygens is installed to the payload adapter.jpg"
   },
   "rosetta": {
-    "imageAsset": "assets/images/anecdotes/c-rosetta.jpg",
+    "imageAsset": "assets/images/anecdotes/c-rosetta.webp",
     "imageCredit": "European Space Agency",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Rosetta%E2%80%99s_self-portrait_at_Mars_(12743274474).jpg",

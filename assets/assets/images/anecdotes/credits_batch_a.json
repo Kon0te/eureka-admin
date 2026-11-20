@@ -1,6 +1,6 @@
 {
   "a_mercury": {
-    "imageAsset": "assets/images/anecdotes/a_mercury.jpg",
+    "imageAsset": "assets/images/anecdotes/a_mercury.webp",
     "imageCredit": "NASA/Johns Hopkins University Applied Physics Laboratory/Arizona State University/Carnegie Institution of Washington",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mercury_in_true_color.jpg",
@@ -9,7 +9,7 @@
     "originalFile": "Mercury_in_true_color.jpg"
   },
   "a_venus": {
-    "imageAsset": "assets/images/anecdotes/a_venus.jpg",
+    "imageAsset": "assets/images/anecdotes/a_venus.webp",
     "imageCredit": "NASA/JPL-Caltech",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Venus_from_Mariner_10.jpg",
@@ -18,7 +18,7 @@
     "originalFile": "Venus_from_Mariner_10.jpg"
   },
   "a_mars": {
-    "imageAsset": "assets/images/anecdotes/a_mars.png",
+    "imageAsset": "assets/images/anecdotes/a_mars.webp",
     "imageCredit": "Kevin Gill from Los Angeles, CA, United States",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mars_-_August_30_2021_-_Flickr_-_Kevin_M._Gill.png",
@@ -54,7 +54,7 @@
     "originalFile": "Duck-billed_platypus_(Ornithorhynchus_anatinus)_Scottsdale.jpg"
   },
   "a_penguin": {
-    "imageAsset": "assets/images/anecdotes/a_penguin.jpg",
+    "imageAsset": "assets/images/anecdotes/a_penguin.webp",
     "imageCredit": "Ian Duffy from UK",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg",
@@ -89,7 +89,7 @@
     "originalFile": "Phalaenopsis amabilis Orchi 198.jpg"
   },
   "a_jupiter": {
-    "imageAsset": "assets/images/anecdotes/a_jupiter.png",
+    "imageAsset": "assets/images/anecdotes/a_jupiter.webp",
     "imageCredit": "NASA/STSCI (S.T.A.R.S)",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Jupiter_OPAL_2024.png",
@@ -97,7 +97,7 @@
     "originalFile": "Jupiter_OPAL_2024.png"
   },
   "a_saturn": {
-    "imageAsset": "assets/images/anecdotes/a_saturn.png",
+    "imageAsset": "assets/images/anecdotes/a_saturn.webp",
     "imageCredit": "NASA / JPL-Caltech / SSI / color composite by Gordan Ugarkovic",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png",
@@ -105,7 +105,7 @@
     "originalFile": "Saturn_global_view_from_Cassini,_rings_open_Better_Colour.png"
   },
   "a_uranus": {
-    "imageAsset": "assets/images/anecdotes/a_uranus.png",
+    "imageAsset": "assets/images/anecdotes/a_uranus.webp",
     "imageCredit": "Ardenau4",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Uranus_Voyager2_color_calibrated.png",
@@ -113,7 +113,7 @@
     "originalFile": "Uranus_Voyager2_color_calibrated.png"
   },
   "a_neptune": {
-    "imageAsset": "assets/images/anecdotes/a_neptune.png",
+    "imageAsset": "assets/images/anecdotes/a_neptune.webp",
     "imageCredit": "NASA / Voyager 2 / PDS / OPUS / Ardenau4",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Neptune_Voyager2_color_calibrated.png",
@@ -145,7 +145,7 @@
     "originalFile": "Humpback_whale_breaching_off_Cabo_San_Lucas.jpg"
   },
   "a_shark": {
-    "imageAsset": "assets/images/anecdotes/a_shark.jpg",
+    "imageAsset": "assets/images/anecdotes/a_shark.webp",
     "imageCredit": "Abe Khao Lak",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Similan_Dive_Center_-_great_whale_shark.jpg",
@@ -193,7 +193,7 @@
     "originalFile": "001_Volcano_eruption_of_Litli-Hrútur_in_Iceland_in_2023_Photo_by_Giles_Laurent.jpg"
   },
   "a_lungs": {
-    "imageAsset": "assets/images/anecdotes/a_lungs.png",
+    "imageAsset": "assets/images/anecdotes/a_lungs.webp",
     "imageCredit": "Patrick J. Lynch, medical illustrator",
     "imageLicense": "CC BY 2.5",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Lungs_diagram_detailed.svg",
@@ -201,7 +201,7 @@
     "originalFile": "Lungs_diagram_detailed.svg"
   },
   "a_skin": {
-    "imageAsset": "assets/images/anecdotes/a_skin.jpg",
+    "imageAsset": "assets/images/anecdotes/a_skin.webp",
     "imageCredit": "XenonR",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Human_skin_structure.jpg",
@@ -241,7 +241,7 @@
     "originalFile": "2 toed sloth.jpg"
   },
   "a_waterlily": {
-    "imageAsset": "assets/images/anecdotes/a_waterlily.jpg",
+    "imageAsset": "assets/images/anecdotes/a_waterlily.webp",
     "imageCredit": "Bilby",
     "imageLicense": "CC BY 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Victoria_amazonica_edit_1.jpg",
@@ -289,7 +289,7 @@
     "originalFile": "Venous_and_arterial_blood.jpg"
   },
   "a_nose": {
-    "imageAsset": "assets/images/anecdotes/a_nose.jpg",
+    "imageAsset": "assets/images/anecdotes/a_nose.webp",
     "imageCredit": "Franco Folini",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Fort_Ross_Elena_wearing_Traditional_Russian_Costume_(cropped).jpg",
@@ -313,7 +313,7 @@
     "originalFile": "Mt._Everest_from_Gokyo_Ri_November_5,_2012.jpg"
   },
   "a_glacier": {
-    "imageAsset": "assets/images/anecdotes/a_glacier.jpg",
+    "imageAsset": "assets/images/anecdotes/a_glacier.webp",
     "imageCredit": "NASA / Christy Hansen",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Geikie_Plateau_Glacier.JPG",
@@ -353,7 +353,7 @@
     "originalFile": "Snowflake_(lumehelves).jpg"
   },
   "a_cloud": {
-    "imageAsset": "assets/images/anecdotes/a_cloud.jpg",
+    "imageAsset": "assets/images/anecdotes/a_cloud.webp",
     "imageCredit": "PiccoloNamek",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:GoldenMedows.jpg",
@@ -361,7 +361,7 @@
     "originalFile": "GoldenMedows.jpg"
   },
   "a_tornado": {
-    "imageAsset": "assets/images/anecdotes/a_tornado.jpg",
+    "imageAsset": "assets/images/anecdotes/a_tornado.webp",
     "imageCredit": "Justin Hobson (Justin1569 at English Wikipedia)",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:F5_tornado_Elie_Manitoba_2007.jpg",
@@ -377,7 +377,7 @@
     "originalFile": "Human_eye_with_blood_vessels.jpg"
   },
   "a_brain": {
-    "imageAsset": "assets/images/anecdotes/a_brain.jpg",
+    "imageAsset": "assets/images/anecdotes/a_brain.webp",
     "imageCredit": "Asnaebsa",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:MRI_of_Human_Brain.jpg",
@@ -385,7 +385,7 @@
     "originalFile": "MRI of Human Brain.jpg"
   },
   "a_heart": {
-    "imageAsset": "assets/images/anecdotes/a_heart.png",
+    "imageAsset": "assets/images/anecdotes/a_heart.webp",
     "imageCredit": "Jerm",
     "imageLicense": "CC BY 2.5",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Heart_anterior_exterior_view.png",
@@ -393,7 +393,7 @@
     "originalFile": "Heart_anterior_exterior_view.png"
   },
   "a_vanilla": {
-    "imageAsset": "assets/images/anecdotes/a_vanilla.jpg",
+    "imageAsset": "assets/images/anecdotes/a_vanilla.webp",
     "imageCredit": "Malcolm Manners from Lakeland FL, USA",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Vanilla_planifolia_(6998639597).jpg",
@@ -409,7 +409,7 @@
     "originalFile": "Meeresleuchten auf Norderney 01.jpg"
   },
   "a_tide": {
-    "imageAsset": "assets/images/anecdotes/a_tide.png",
+    "imageAsset": "assets/images/anecdotes/a_tide.webp",
     "imageCredit": " The SVG code is valid. This  vector image was created with Inkscape-default",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tide_overview.svg",
@@ -417,7 +417,7 @@
     "originalFile": "Tide_overview.svg"
   },
   "a_vent": {
-    "imageAsset": "assets/images/anecdotes/a_vent.jpg",
+    "imageAsset": "assets/images/anecdotes/a_vent.webp",
     "imageCredit": "P. Rona / OAR/National Undersea Research Program (NURP); NOAA",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Blacksmoker_in_Atlantic_Ocean.jpg",
@@ -425,7 +425,7 @@
     "originalFile": "Blacksmoker_in_Atlantic_Ocean.jpg"
   },
   "a_kelp": {
-    "imageAsset": "assets/images/anecdotes/a_kelp.jpg",
+    "imageAsset": "assets/images/anecdotes/a_kelp.webp",
     "imageCredit": "Kip Evans",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Kelp_forest.jpg",
@@ -497,7 +497,7 @@
     "originalFile": "Aurora_borealis_over_Eielson_Air_Force_Base,_Alaska.jpg"
   },
   "a_stomach": {
-    "imageAsset": "assets/images/anecdotes/a_stomach.png",
+    "imageAsset": "assets/images/anecdotes/a_stomach.webp",
     "imageCredit": "Mariana Ruiz, Jmarchn",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Digestive_system_diagram_en.svg",
@@ -505,7 +505,7 @@
     "originalFile": "Digestive system diagram en.svg"
   },
   "a_kidney": {
-    "imageAsset": "assets/images/anecdotes/a_kidney.png",
+    "imageAsset": "assets/images/anecdotes/a_kidney.webp",
     "imageCredit": "BruceBlaus. When using this image in external sources it can be cited as:\n\nBlausen.com staff (2014). \"Medical gallery of Blausen Medical 2014\". WikiJournal of Medicine 1 (2). DOI:10.15347/wjm/2014.010. ISSN 2002-4436.",
     "imageLicense": "CC BY 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Blausen_0592_KidneyAnatomy_01.png",
@@ -513,7 +513,7 @@
     "originalFile": "Blausen_0592_KidneyAnatomy_01.png"
   },
   "a_giraffe": {
-    "imageAsset": "assets/images/anecdotes/a_giraffe.png",
+    "imageAsset": "assets/images/anecdotes/a_giraffe.webp",
     "imageCredit": "Relative of Brandt Luke Zorn, most likely his father.",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Two_Giraffes.PNG",

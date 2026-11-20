@@ -8,7 +8,7 @@
     "originalFile": "Graphite-233436.jpg"
   },
   "sodium": {
-    "imageAsset": "assets/images/anecdotes/d_sodium.jpg",
+    "imageAsset": "assets/images/anecdotes/d_sodium.webp",
     "imageCredit": "The original uploader was Dnn87 at English Wikipedia.",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Na_(Sodium).jpg",
@@ -16,7 +16,7 @@
     "originalFile": "Na_(Sodium).jpg"
   },
   "chlorine": {
-    "imageAsset": "assets/images/anecdotes/d_chlorine.jpg",
+    "imageAsset": "assets/images/anecdotes/d_chlorine.webp",
     "imageCredit": "W. Oelen",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Chlorine_in_bottle.jpg",
@@ -32,7 +32,7 @@
     "originalFile": "NatCopper.jpg"
   },
   "silicon": {
-    "imageAsset": "assets/images/anecdotes/d_silicon.jpg",
+    "imageAsset": "assets/images/anecdotes/d_silicon.webp",
     "imageCredit": "Rasiel Suarez on behalf of Luciteria LLC",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:A_piece_of_zone_refined_silicon.JPG",
@@ -56,7 +56,7 @@
     "originalFile": "Gold-crystals.jpg"
   },
   "aluminium": {
-    "imageAsset": "assets/images/anecdotes/d_aluminium.jpg",
+    "imageAsset": "assets/images/anecdotes/d_aluminium.webp",
     "imageCredit": "Unknown authorUnknown author",
     "imageLicense": "CC BY 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Aluminium-4.jpg",
@@ -64,7 +64,7 @@
     "originalFile": "Aluminium-4.jpg"
   },
   "dice": {
-    "imageAsset": "assets/images/anecdotes/d_dice.jpg",
+    "imageAsset": "assets/images/anecdotes/d_dice.webp",
     "imageCredit": "Diacritica",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:6sided_dice_(cropped).jpg",
@@ -80,7 +80,7 @@
     "originalFile": "20th_Century_Small_Wooden_Abacus.jpg"
   },
   "mobius": {
-    "imageAsset": "assets/images/anecdotes/d_mobius.jpg",
+    "imageAsset": "assets/images/anecdotes/d_mobius.webp",
     "imageCredit": "David Benbennick",
     "imageLicense": "CC BY-SA 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:M%C3%B6bius_Strip.jpg",
@@ -208,7 +208,7 @@
     "originalFile": "Canyon_River_Tree_(165872763).jpeg"
   },
   "cyanotype": {
-    "imageAsset": "assets/images/anecdotes/d_cyanotype.jpg",
+    "imageAsset": "assets/images/anecdotes/d_cyanotype.webp",
     "imageCredit": "\nAtkins, Anna, 1799-1871",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Anna_Atkins_algae_cyanotype.jpg",
@@ -232,7 +232,7 @@
     "originalFile": "1926_Sir_Sigmund_and_Eva_Maria_Warburg.jpg"
   },
   "tripod": {
-    "imageAsset": "assets/images/anecdotes/d_tripod.jpg",
+    "imageAsset": "assets/images/anecdotes/d_tripod.webp",
     "imageCredit": "Ashley Pomeroy",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Tripod_0840.jpg",
@@ -256,7 +256,7 @@
     "originalFile": "35mm_movie_negative.jpg"
   },
   "melies": {
-    "imageAsset": "assets/images/anecdotes/d_melies.png",
+    "imageAsset": "assets/images/anecdotes/d_melies.webp",
     "imageCredit": "Georges Méliès",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Voyage_dans_la_lune_title_card.png",
@@ -272,7 +272,7 @@
     "originalFile": "Projecteur_cinématographique_35mm.jpg"
   },
   "concorde": {
-    "imageAsset": "assets/images/anecdotes/d_concorde.jpg",
+    "imageAsset": "assets/images/anecdotes/d_concorde.webp",
     "imageCredit": "Eduard Marmet",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:British_Airways_Concorde_G-BOAC_03.jpg",
@@ -304,7 +304,7 @@
     "originalFile": "Stephenson_Rocket_at_the_National_Railway_Museum_York_Oct25_01.jpg"
   },
   "container": {
-    "imageAsset": "assets/images/anecdotes/d_container.jpg",
+    "imageAsset": "assets/images/anecdotes/d_container.webp",
     "imageCredit": "KMJ at German Wikipedia",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Container_01_KMJ.jpg",
@@ -320,7 +320,7 @@
     "originalFile": "Rover_safety_bicycle_of_1885_(right).jpg"
   },
   "balloon": {
-    "imageAsset": "assets/images/anecdotes/d_balloon.jpg",
+    "imageAsset": "assets/images/anecdotes/d_balloon.webp",
     "imageCredit": "Kropsoq",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:2006_Ojiya_balloon_festival_011.jpg",
@@ -344,7 +344,7 @@
     "originalFile": "TamentitMeteorite.JPG"
   },
   "polyhedron": {
-    "imageAsset": "assets/images/anecdotes/d_polyhedron.jpg",
+    "imageAsset": "assets/images/anecdotes/d_polyhedron.webp",
     "imageCredit": "Diacritica",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:6sided_dice_(cropped).jpg",

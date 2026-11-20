@@ -1,6 +1,6 @@
 {
   "spectrum": {
-    "imageAsset": "assets/images/anecdotes/b-prism.png",
+    "imageAsset": "assets/images/anecdotes/b-prism.webp",
     "imageCredit": "Kelvinsong",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dispersive_prism.png",
@@ -54,7 +54,7 @@
     "originalFile": "GR-olympia-palaestra.jpg"
   },
   "harp": {
-    "imageAsset": "assets/images/anecdotes/b-harp.png",
+    "imageAsset": "assets/images/anecdotes/b-harp.webp",
     "imageCredit": "Wikimedia Commons",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Harp.png",
@@ -90,7 +90,7 @@
     "originalFile": "\"13 - ITALY - bar code FLOS lamp by Achille Castiglioni - Made in Italy - product design of furniture - italian style.jpg"
   },
   "prism": {
-    "imageAsset": "assets/images/anecdotes/b-prism.png",
+    "imageAsset": "assets/images/anecdotes/b-prism.webp",
     "imageCredit": "Kelvinsong",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Dispersive_prism.png",
@@ -207,7 +207,7 @@
     "originalFile": "Sydney_Australia._(21339175489).jpg"
   },
   "sagrada": {
-    "imageAsset": "assets/images/anecdotes/b-sagrada.jpg",
+    "imageAsset": "assets/images/anecdotes/b-sagrada.webp",
     "imageCredit": "Canaan",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:SF_maig_2_cropped.jpg",
@@ -234,7 +234,7 @@
     "originalFile": "Rosetta_Stone.JPG"
   },
   "sutton": {
-    "imageAsset": "assets/images/anecdotes/b-sutton.png",
+    "imageAsset": "assets/images/anecdotes/b-sutton.webp",
     "imageCredit": "user:Geni",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png",
@@ -243,7 +243,7 @@
     "originalFile": "Sutton_Hoo_helmet_2016.png"
   },
   "bayeux": {
-    "imageAsset": "assets/images/anecdotes/b-bayeux.png",
+    "imageAsset": "assets/images/anecdotes/b-bayeux.webp",
     "imageCredit": "Wikimedia Commons",
     "imageLicense": "Public domain",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Odo_bayeux_tapestry.png",
@@ -396,7 +396,7 @@
     "originalFile": "Steinway_Vienna_002.JPG"
   },
   "violin": {
-    "imageAsset": "assets/images/anecdotes/b-violin.png",
+    "imageAsset": "assets/images/anecdotes/b-violin.webp",
     "imageCredit": "Just plain Bill",
     "imageLicense": "CC0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Violin_VL100.png",
@@ -405,7 +405,7 @@
     "originalFile": "Violin_VL100.png"
   },
   "sax": {
-    "imageAsset": "assets/images/anecdotes/b-sax.png",
+    "imageAsset": "assets/images/anecdotes/b-sax.webp",
     "imageCredit": "Jonathanischoice",
     "imageLicense": "CC BY 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Eight_saxophone_sizes_smaller.png",
@@ -423,7 +423,7 @@
     "originalFile": "Diffenent_sizes_of_Dizi.jpg"
   },
   "brass": {
-    "imageAsset": "assets/images/anecdotes/b-brass.jpg",
+    "imageAsset": "assets/images/anecdotes/b-brass.webp",
     "imageCredit": "Yamaha Corporation",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Yamaha_Trumpet_YTR-8335LA_crop.jpg",
@@ -477,7 +477,7 @@
     "originalFile": "First_flight2.jpg"
   },
   "steam": {
-    "imageAsset": "assets/images/anecdotes/b-steam.jpg",
+    "imageAsset": "assets/images/anecdotes/b-steam.webp",
     "imageCredit": "Nicolás Pérez",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Maquina_vapor_Watt_ETSIIM.jpg",
@@ -504,7 +504,7 @@
     "originalFile": "Telefon_BW_2012-02-18_13-44-32.JPG"
   },
   "camera": {
-    "imageAsset": "assets/images/anecdotes/b-camera.jpg",
+    "imageAsset": "assets/images/anecdotes/b-camera.webp",
     "imageCredit": "Roi Boshi",
     "imageLicense": "CC BY-SA 3.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Mus%C3%A9e_des_Arts_et_M%C3%A9tiers_-_Chambre_%C3%A0_tiroir_pour_daguerr%C3%A9otype.jpg",
@@ -522,7 +522,7 @@
     "originalFile": "A Jacquard loom showing information punchcards, National Museum of Scotland.jpg"
   },
   "braille": {
-    "imageAsset": "assets/images/anecdotes/b-braille.jpg",
+    "imageAsset": "assets/images/anecdotes/b-braille.webp",
     "imageCredit": "Stefan Malmesjö",
     "imageLicense": "CC BY 2.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Reading_Braille.jpg",
@@ -540,7 +540,7 @@
     "originalFile": "Cuneiform Akkadian clay tablet 2.jpg"
   },
   "paper": {
-    "imageAsset": "assets/images/anecdotes/b-paper.jpg",
+    "imageAsset": "assets/images/anecdotes/b-paper.webp",
     "imageCredit": "Gryffindor",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Papiermuseum_Basel_2008_(38).jpg",
@@ -567,7 +567,7 @@
     "originalFile": "Gutenberg_Bible,_Lenox_Copy,_New_York_Public_Library,_2009._Pic_01.jpg"
   },
   "unicode": {
-    "imageAsset": "assets/images/anecdotes/b-unicode.jpg",
+    "imageAsset": "assets/images/anecdotes/b-unicode.webp",
     "imageCredit": "D-Kuru",
     "imageLicense": "CC BY-SA 3.0 at",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:Razer_Arctosa_keyboard-top-ar_16to9_PNr%C2%B00325.jpg",
@@ -594,7 +594,7 @@
     "originalFile": "MEK_II-371.jpg"
   },
   "web": {
-    "imageAsset": "assets/images/anecdotes/b-web.jpg",
+    "imageAsset": "assets/images/anecdotes/b-web.webp",
     "imageCredit": "Geni",
     "imageLicense": "CC BY-SA 4.0",
     "imageSourceUrl": "https://commons.wikimedia.org/wiki/File:NeXTcube_first_webserver.JPG",
