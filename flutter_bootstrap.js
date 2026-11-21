@@ -44,5 +44,9 @@ _flutter.buildConfig = {"engineRevision":"69c8c61792f04cc809dfef0c910414fb9afc06
     const registrations = await navigator.serviceWorker.getRegistrations();
     await Promise.all(registrations.map((registration) => registration.unregister()));
   }
-  await _flutter.loader.load();
+  await _flutter.loader.load({
+    config: {
+      canvasKitBaseUrl: 'canvaskit/',
+    },
+  });
 })();
